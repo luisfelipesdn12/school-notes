@@ -1,5 +1,5 @@
 # school-notes
-Anotações de minha escola - um caderninho :)
+Anotações da minha escola - um caderninho :)
 
 ---
 
