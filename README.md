@@ -3,7 +3,21 @@ Anotações da minha escola - um caderninho :)
 
 ---
 
-## Organização de diretórios
+## Tabela de conteúdos
+- [Matemática](./matematica)
+  - [1º Bimestre](./matematica/1bim)
+- [Português](./portugues)
+  - [1º Bimestre](./portugues/1bim)
+- [Química](./quimica)
+  - [1º Bimestre](./quimica/1bim)
+- [Tecnologia](./tecnologia)
+  - [1º Bimestre](./tecnologia/1bim)
+
+---
+
+## Organização
+
+### Diretórios
 As pastas são organizadas em:
 
 ```
@@ -20,7 +34,7 @@ As pastas são organizadas em:
 │           ...
 ```
 
-## Conteúdo/Atotação
+### Conteúdo/Anotação
 
 No arquivo `README.md`, contém as anotações de fato e é organizado no formato:
 
