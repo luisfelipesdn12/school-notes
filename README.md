@@ -24,7 +24,7 @@ As pastas são organizadas em:
 
 No arquivo `README.md`, contém as anotações de fato e é organizado no formato:
 
-```md
+```markdown
 # Nome da Disciplina - Xº Bimestre
 
 ## Nome do conteúdo
