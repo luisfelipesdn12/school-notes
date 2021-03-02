@@ -31,7 +31,7 @@
 > Exemplo alterno externo
 
 ## Triângulos e ângulos internos
-> 20/03/2021
+> 20/03/2021 — Aula 1
 
 Foram revistos os conceitos de OPV e Alternos internos.
 (Comentamos sobre o Zorro :V)
@@ -41,7 +41,7 @@ Foram revistos os conceitos de OPV e Alternos internos.
 ### Soma dos Ângulos Internos de um Triângulo
 ![Demonstração da soma](./demo_soma_angulos_internos_triangulo.jpg)
 
-#### Demostrações de exercícios
+#### Demonstrações de exercícios
 
 - Foi feita uma demonstração de exercício, dados dois ângulos internos (30° e 80°), foi calculado o terceiro.
 
@@ -66,3 +66,42 @@ Foram revistos os conceitos de OPV e Alternos internos.
 Foi comentado que estudamos muito triângulos, pois, quando temos polígonos (regulares) mais complexos, podemos transformá-los em triângulos para facilitar a sua análise.
 
 ![Polígonos regulares em triângulos](poligonos_regulares_em_triangulos.jpg)
+
+## Porcentagem
+> 02/03/2021 — Aula 2
+
+Como discutimos, "porcentagem" ou "percentagem" estão corretos.
+
+Porcentagem é considerar que algo é 100 (quando inteiro), para analisá-lo (em partes).
+
+Muito ou pouco é relativo à o que é analisado.
+
+### Diferentes formas de calcular
+Exemplo: 50% de R$ 16
+
+#### Multiplicação
+1. Transformar a porcentagem para um decimal.
+   - No caso, 50% em 0,50 (30% seria 0,30 e 100% seria 1,00)
+2. Pegar o valor analisado e multiplicar.
+   - No caso, 16 * 0,50 = 8
+
+#### Regra de três
+```math
+100 - está para -> 16
+      assim como
+50 -- está para -> x
+
+100x = 16 * 50
+100x = 800
+x = 800 / 100
+x = 8
+```
+
+#### Fácil
+> Proporção
+
+Se 50 é a metade 100, o resultado que procuramos é a metade de 16, logo 8.
+
+> Quando pensamos em proporção, devemos pensar em multiplicação e divisão, nunca adição.
+>
+> Suponhamos que uma receita tem 1 lata de leite e 3 colheres de chocolate, se aumentarmos 1 lata, não devemos aumentar 1 colher (adicionando). Como multiplicamos a quantidade de latas por 2, devemos fazer o mesmo com as colheres, multiplicando 3 por 2, temos 6 colheres de chocolate.
