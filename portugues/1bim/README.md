@@ -134,7 +134,7 @@ Discutimos em aula que este é um texto crítico, no sentido em que contra-argum
 
 > Carlos Drummond de Andrade, “A máquina do mundo”, de Claro Enigma, 1951.
 
-O contexto é a desilução do mundo em um pós-guerra.
+O contexto é a desilusão do mundo num pós-guerra.
 
 ##### Texto 3
 
@@ -161,17 +161,17 @@ Foi colocado a [musica no YouTube](https://www.youtube.com/watch?v=HUb-z8C3CBs) 
 
 > Quino, Mafalda. Assim vai o mundo!
 
-Foi discutida a linguagem não-verbal e o significado desta tira.
+Foi discutida a linguagem não verbal e o significado desta tira.
 
 ##### Texto 5
 > Os adultos ficam dizendo: “devemos dar esperança aos jovens”. Mas eu não quero a sua esperança. Eu não quero que vocês estejam esperançosos. Eu quero que vocês estejam em pânico. Quero que vocês sintam o medo que eu sinto todos os dias. E eu quero que vocês ajam. Quero que ajam como agiriam em uma crise. Quero que vocês ajam como se a casa estivesse pegando fogo, porque está.
 
 > Greta Thunberg, Trecho de discurso em Davos, 2019.
 
-Foi mostrado um [outro discurso](https://www.youtube.com/watch?v=mbnRv81s_9Q) da Gretta no YouTube.
+Foi mostrado [outro discurso](https://www.youtube.com/watch?v=mbnRv81s_9Q) da Gretta no YouTube.
 
 ### Atividade
-Considerando as ideias apresentadas nos textos e também outras informações que julgar pertinentes, redija uma dissertação em prosa, na qual você exponha seu ponto de vista sobre o tema: **O mundo contemporâneo está fora da ordem?**
+Considerando as ideias apresentadas nos textos e também outras informações que julgar pertinentes, redija uma dissertação em prosa, na qual você exponha o seu ponto de vista sobre o tema: **O mundo contemporâneo está fora da ordem?**
 
 #### Instruções:
 > Da Fuvest
@@ -184,4 +184,4 @@ Considerando as ideias apresentadas nos textos e também outras informações qu
 - No email ou Google Drive
 - Lembrar de dar um título
 - Lembrar de fazer uma conclusão
-- Até sexta-feira (05/03/2021 ás 23h25m)
+- Até sexta-feira (05/03/2021 às 23h25m)
