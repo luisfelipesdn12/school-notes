@@ -1,10 +1,10 @@
 # Português - 1º Bimestre
 
+## Luís Vaz de Camões
 > 01/03/2021
 
-# Luís Vaz de Camões
 
-### Breve pontos da biografia
+### Breves pontos sobre a biografia:
 
 - Nasceu em Lisboa.
   - pequena nobreza.
@@ -41,26 +41,25 @@ O poema apresenta antítese e pessimismo ao pressupor que não existem boas mem�
 
 Ideia de desconserto do mundo.
 
->
-> - Luís de Camões Camões, L. V. de. 200 Sonetos. Porto Alegre: L&PM. 1998.
+> — Luís de Camões Camões, L. V. de. 200 Sonetos. Porto Alegre: L&PM. 1998.
 
 Texto construído com pronomes indefinidos ("alguns"), trás uma ideia de incerteza e distanciamento.
+## Coesão e Coerência
 > 02/03/2021
-# Coesão e Coerência
 
 Um bom texto é aquele em que o leitor é conduzido à compreensão imediata, exceto em casos em que há um público alvo muito específico.
 
-## Coesão textual:
+### Coesão textual:
 
 São as conexões gramaticais responsáveis pela articulação de palavras, produz o sentido.
 
-### Por remissão:
+#### Por remissão:
 
 Os pronomes estabelecem relações remissivas sem que se faça repetição de termos.
 
 > O psiquiatra americano Allen Frances acha que **usamos remédios demais**, e para tratar gente que passaria bem sem **eles**.
 
-### Por repetição/reiteração:
+#### Por repetição/reiteração:
 
 Dá sentido de ênfase.
 
@@ -68,7 +67,7 @@ Dá sentido de ênfase.
 
 > — Antoine de Saint-Exupéry
 
-### Por substituição:
+#### Por substituição:
 
 Um elemento é substituído por um sinônimo sem prejudicar o sentido da ideia.
 
@@ -78,13 +77,13 @@ Um elemento é substituído por um sinônimo sem prejudicar o sentido da ideia.
 
 > Entrevista completa: https://epoca.globo.com/vida/noticia/2016/09/receitamos-remedios-psiquiatricos-gente-saudavel-diz-medico-allen-frances.html
 
-### Por contiguidade:
+#### Por contiguidade:
 
 Estabelece uma unidade de discurso apresentando elementos de um mesmo campo semântico.
 
 > Frances – [...] Quando as taxas de desemprego aumentam, as taxas de depressão aumentam também. Melhor do que receitar **antidepressivos** para as pessoas seria garantir-hes melhor apoio social, para ajudá-las durante o tempo em que estiverem desempregadas
 
-## Coerência textual
+### Coerência textual
 
 Conexões lógico-semânticas faz o texto ter um significado por completo. Vêm do desenvolvimento de ideias, seleção do vocabulário, suporte, etc.
 
