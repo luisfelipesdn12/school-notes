@@ -10,7 +10,7 @@
   - pequena nobreza.
 - A arte era muito valorizada pelos reis.
   - Se ele escrevesse um livro, seria custeado pelo governo.
-- Luis se apaixonou por uma mulher.
+- Luís se apaixonou por uma mulher.
   - Teria escrito Lusíadas numa embarcação (com a mulher).
   - Teria escolhido o livro em vez dela (deixado-a morrer).
 - Um dos principais representantes da literatura classicista.
@@ -87,12 +87,12 @@ Estabelece uma unidade de discurso apresentando elementos de um mesmo campo sem�
 
 Conexões lógico-semânticas faz o texto ter um significado por completo. Vêm do desenvolvimento de ideias, seleção do vocabulário, suporte, etc.
 
-## Reflexão
+### Reflexão
 
-### Tema da redação da Fuvest 2021:
+#### Tema da redação da Fuvest 2021:
 O mundo contemporâneo está fora de ordem?
 
-#### Texto 1
+##### Texto 1
 
 > O neoliberalismo define certa norma de vida nas sociedades ocidentais, e, para além dela, em todas as sociedades que as seguem no caminho da “modernidade”. Essa norma impõe a cada um de nós que vivamos num universo de competição generalizada, intima os assalariados e as populações a entrar em luta econômica uns contra os outros, ordena as relações sociais segundo o modelo do mercado, obriga a justificar desigualdades cada vez mais profundas, muda até o indivíduo, que é instado a conceber a si mesmo e a comportar-se como uma empresa.
 
@@ -101,7 +101,7 @@ O mundo contemporâneo está fora de ordem?
 Discutimos em aula que este é um texto crítico, no sentido em que contra-argumenta uma ideologia política.
 (Iniciou-se uma pequena discussão no chat :V)
 
-#### Texto 2
+##### Texto 2
 
 > As mais soberbas pontes e edifícios,
 > o que nas oficinas se elabora,
@@ -125,7 +125,7 @@ Discutimos em aula que este é um texto crítico, no sentido em que contra-argum
 
 O contexto é a desilusão do mundo num pós-guerra.
 
-#### Texto 3
+##### Texto 3
 
 > Aqui tudo parece que era ainda construção e já é ruína
 > Tudo é menino, menina no olho da rua
@@ -139,24 +139,24 @@ O contexto é a desilusão do mundo num pós-guerra.
 
 Tivemos acesso à [musica no YouTube](https://www.youtube.com/watch?v=HUb-z8C3CBs) na íntegra.
 
-#### Texto 4
+##### Texto 4
 > ![Quadrinho mafalda](./mafalda_assim_vai_o_mundo.jpg)
 
 > Quino, Mafalda. Assim vai o mundo!
 
 Foi discutida a linguagem não verbal e o significado desta tira.
 
-#### Texto 5
+##### Texto 5
 > Os adultos ficam dizendo: “devemos dar esperança aos jovens”. Mas eu não quero a sua esperança. Eu não quero que vocês estejam esperançosos. Eu quero que vocês estejam em pânico. Quero que vocês sintam o medo que eu sinto todos os dias. E eu quero que vocês ajam. Quero que ajam como agiriam em uma crise. Quero que vocês ajam como se a casa estivesse pegando fogo, porque está.
 
 > Greta Thunberg, Trecho de discurso em Davos, 2019.
 
 Foi mostrado [outro discurso](https://www.youtube.com/watch?v=mbnRv81s_9Q) da Gretta no YouTube.
 
-### Atividade
+#### Atividade
 Considerando as ideias apresentadas nos textos e também outras informações que julgar pertinentes, redija uma dissertação em prosa, na qual você exponha o seu ponto de vista sobre o tema: **O mundo contemporâneo está fora da ordem?**
 
-#### Instruções:
+##### Instruções:
 > Da Fuvest:
 - A dissertação deve ser redigida de acordo com a norma culta padrão da língua portuguesa.
 - Escreva, no mínimo, 20 linhas, com letra legível e não ultrapasse o espaço de 30 linhas da folha de redação.
