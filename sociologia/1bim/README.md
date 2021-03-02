@@ -3,7 +3,7 @@
 ## Atividade: Olhar sociológico / Os processos de socialização
 > 02/03/2021
 
-> [Documento usado em aula](.\classroom.pdf)
+> [Documento usado em aula](.\classroom1.pdf)
 
 ### Questões:
 
