@@ -33,6 +33,8 @@
 ## Triângulos e ângulos internos
 > 20/03/2021 — Aula 1
 
+> [Documento usado em aula](./Semana%203.2%20-%20Soma%20de%20ângulos.pdf)
+
 Foram revistos os conceitos de OPV e Alternos internos.
 (Comentamos sobre o Zorro :V)
 
@@ -69,6 +71,8 @@ Foi comentado que estudamos muito triângulos, pois, quando temos polígonos (re
 
 ## Porcentagem
 > 02/03/2021 — Aula 2
+
+> [Documento usado em aula](./Semana%203.3%20-%20Porcentagem%20Fácil.pdf)
 
 Como discutimos, "porcentagem" ou "percentagem" estão corretos.
 
