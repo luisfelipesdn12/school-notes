@@ -153,10 +153,10 @@ Foi discutida a linguagem não verbal e o significado desta tira.
 
 Foi mostrado [outro discurso](https://www.youtube.com/watch?v=mbnRv81s_9Q) da Gretta no YouTube.
 
-### Atividade
+#### Atividade
 Considerando as ideias apresentadas nos textos e também outras informações que julgar pertinentes, redija uma dissertação em prosa, na qual você exponha o seu ponto de vista sobre o tema: **O mundo contemporâneo está fora da ordem?**
 
-#### Instruções:
+##### Instruções:
 > Da Fuvest:
 - A dissertação deve ser redigida de acordo com a norma culta padrão da língua portuguesa.
 - Escreva, no mínimo, 20 linhas, com letra legível e não ultrapasse o espaço de 30 linhas da folha de redação.
