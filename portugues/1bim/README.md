@@ -1,22 +1,21 @@
 # Português - 1º Bimestre
 
-## Luís de Camões
 > 01/03/2021
+
+# Luís Vaz de Camões
 
 ### Breve pontos da biografia
 
-- Nasceu em Lisboa
-  - pequena nobreza
+- Nasceu em Lisboa.
+  - pequena nobreza.
 - A arte era muito valorizada pelos reis.
-  - Se ele escrevesse um livro era custeado pelo governo
-- Luis se apaixonou por uma mulher
-  - Teria escrito Lusíadas numa embarcação (com a mulher)
-  - Teria escolhido o livro em vez dela (deixado-a morrer)
-- Um dos representantes da literatura classicista.
+  - Se ele escrevesse um livro, seria custeado pelo governo.
+- Luis se apaixonou por uma mulher.
+  - Teria escrito Lusíadas numa embarcação (com a mulher).
+  - Teria escolhido o livro em vez dela (deixado-a morrer).
+- Um dos principais representantes da literatura classicista.
 
-### Poema
-
-> Mudam-se os tempos, mudam-se as vontades,
+### Poema: Mudam-se os tempos, mudam-se as vontades:
 
 A grande paixão dos homens gregos era por outros homens. Muitos se relacionavam com mulheres apenas por reprodução.
 Esse é um exemplo de "mudam-se os tempos, mudam-se as vontades".
@@ -30,7 +29,7 @@ Esse é um exemplo de "mudam-se os tempos, mudam-se as vontades".
 > Do mal ficam as mágoas na lembrança,
 > E do bem, se algum houve, as saudades.
 
-O poema apresenta pessimismo e antítese (ideias opostas).
+O poema apresenta antítese e pessimismo ao pressupor que não existem boas memórias (ideias opostas).
 
 > O tempo cobre o chão de verde manto,
 > Que já coberto foi de neve fria,
@@ -45,32 +44,31 @@ Ideia de desconserto do mundo.
 >
 > - Luís de Camões Camões, L. V. de. 200 Sonetos. Porto Alegre: L&PM. 1998.
 
-Texto construído com pronomes indefinidos ("Alguns"), trás uma ideia de incerteza e distanciamento.
-
-## Coesão e Coerência
+Texto construído com pronomes indefinidos ("alguns"), trás uma ideia de incerteza e distanciamento.
 > 02/03/2021
+# Coesão e Coerência
 
-Um bom texto é aquele em que o leitor é conduzido à compreensão imediata.
+Um bom texto é aquele em que o leitor é conduzido à compreensão imediata, exceto em casos em que há um público alvo muito específico.
 
-### Coesão textual
+## Coesão textual:
 
 São as conexões gramaticais responsáveis pela articulação de palavras, produz o sentido.
 
-#### Por remissão
+### Por remissão:
 
 Os pronomes estabelecem relações remissivas sem que se faça repetição de termos.
 
 > O psiquiatra americano Allen Frances acha que **usamos remédios demais**, e para tratar gente que passaria bem sem **eles**.
 
-#### Por repetição/reiteração
+### Por repetição/reiteração:
 
 Dá sentido de ênfase.
 
 > Cada um é responsável por todos. Cada um é o único responsável. Cada um é o único responsável por todos.
 
-> Antoine de Saint-Exupéry
+> — Antoine de Saint-Exupéry
 
-#### Por substituição
+### Por substituição:
 
 Um elemento é substituído por um sinônimo sem prejudicar o sentido da ideia.
 
@@ -80,22 +78,22 @@ Um elemento é substituído por um sinônimo sem prejudicar o sentido da ideia.
 
 > Entrevista completa: https://epoca.globo.com/vida/noticia/2016/09/receitamos-remedios-psiquiatricos-gente-saudavel-diz-medico-allen-frances.html
 
-#### Por contiguidade
+### Por contiguidade:
 
 Estabelece uma unidade de discurso apresentando elementos de um mesmo campo semântico.
 
 > Frances – [...] Quando as taxas de desemprego aumentam, as taxas de depressão aumentam também. Melhor do que receitar **antidepressivos** para as pessoas seria garantir-hes melhor apoio social, para ajudá-las durante o tempo em que estiverem desempregadas
 
-### Coerência textual
+## Coerência textual
 
 Conexões lógico-semânticas faz o texto ter um significado por completo. Vêm do desenvolvimento de ideias, seleção do vocabulário, suporte, etc.
 
-### Reflexão
+## Reflexão
 
-#### Tema redação Fuvest 2020
+### Tema da redação da Fuvest 2021:
 O mundo contemporâneo está fora de ordem?
 
-##### Texto 1
+#### Texto 1
 
 > O neoliberalismo define certa norma de vida nas sociedades ocidentais, e, para além dela, em todas as sociedades que as seguem no caminho da “modernidade”. Essa norma impõe a cada um de nós que vivamos num universo de competição generalizada, intima os assalariados e as populações a entrar em luta econômica uns contra os outros, ordena as relações sociais segundo o modelo do mercado, obriga a justificar desigualdades cada vez mais profundas, muda até o indivíduo, que é instado a conceber a si mesmo e a comportar-se como uma empresa.
 
@@ -104,30 +102,22 @@ O mundo contemporâneo está fora de ordem?
 Discutimos em aula que este é um texto crítico, no sentido em que contra-argumenta uma ideologia política.
 (Iniciou-se uma pequena discussão no chat :V)
 
-##### Texto 2
+#### Texto 2
 
 > As mais soberbas pontes e edifícios,
->
 > o que nas oficinas se elabora,
->
 > o que pensado foi e logo atinge
 >
 > distância superior ao pensamento,
->
 > os recursos da terra dominados,
->
 > e as paixões e os impulsos e os tormentos
 >
 > e tudo que define o ser terrestre
->
 > ou se prolonga até nos animais
->
 > e chega às plantas para se embeber
 >
 > no sono rancoroso dos minérios,
->
 > dá volta ao mundo e torna a se engolfar
->
 > na estranha ordem geométrica de tudo,
 >
 > (…)
@@ -136,34 +126,28 @@ Discutimos em aula que este é um texto crítico, no sentido em que contra-argum
 
 O contexto é a desilusão do mundo num pós-guerra.
 
-##### Texto 3
+#### Texto 3
 
 > Aqui tudo parece que era ainda construção e já é ruína
->
 > Tudo é menino, menina no olho da rua
->
 > O asfalto, a ponte, o viaduto ganindo pra lua
->
 > Nada continua…
->
 > (…)
->
 > Alguma coisa está fora da ordem
->
 > Fora da nova ordem mundial
 
-> Caetano Veloso, Trecho da música Fora da Ordem, 1991.
+> — Caetano Veloso. Trecho da música Fora da Ordem, 1991.
 
-Foi colocado a [musica no YouTube](https://www.youtube.com/watch?v=HUb-z8C3CBs) na íntegra.
+Tivemos acesso à [musica no YouTube](https://www.youtube.com/watch?v=HUb-z8C3CBs) na íntegra.
 
-##### Texto 4
+#### Texto 4
 > ![Quadrinho mafalda](./mafalda_assim_vai_o_mundo.jpg)
 
 > Quino, Mafalda. Assim vai o mundo!
 
 Foi discutida a linguagem não verbal e o significado desta tira.
 
-##### Texto 5
+#### Texto 5
 > Os adultos ficam dizendo: “devemos dar esperança aos jovens”. Mas eu não quero a sua esperança. Eu não quero que vocês estejam esperançosos. Eu quero que vocês estejam em pânico. Quero que vocês sintam o medo que eu sinto todos os dias. E eu quero que vocês ajam. Quero que ajam como agiriam em uma crise. Quero que vocês ajam como se a casa estivesse pegando fogo, porque está.
 
 > Greta Thunberg, Trecho de discurso em Davos, 2019.
@@ -174,14 +158,14 @@ Foi mostrado [outro discurso](https://www.youtube.com/watch?v=mbnRv81s_9Q) da Gr
 Considerando as ideias apresentadas nos textos e também outras informações que julgar pertinentes, redija uma dissertação em prosa, na qual você exponha o seu ponto de vista sobre o tema: **O mundo contemporâneo está fora da ordem?**
 
 #### Instruções:
-> Da Fuvest
-- A dissertação deve ser redigida de acordo com a norma-padrão da língua portuguesa.
+> Da Fuvest:
+- A dissertação deve ser redigida de acordo com a norma culta padrão da língua portuguesa.
 - Escreva, no mínimo, 20 linhas, com letra legível e não ultrapasse o espaço de 30 linhas da folha de redação.
 - Dê um título a sua redação.
 
-> Da professora
-- Preferência arquivo WORD
-- No email ou Google Drive
-- Lembrar de dar um título
-- Lembrar de fazer uma conclusão
-- Até sexta-feira (05/03/2021 às 23h25m)
+> Da professora:
+- Preferência por arquivo feito no WORD (.docx).
+- No email flavalery@yahoo.com ou Google Drive.
+- Lembrar de dar um título.
+- Lembrar de fazer uma conclusão.
+- Até sexta-feira (05/03/2021 às 23h59m).
