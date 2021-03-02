@@ -100,7 +100,7 @@ x = 8
 #### Fácil
 > Proporção
 
-Se 50 é a metade 100, o resultado que procuramos é a metade de 16, logo 8.
+Se 50 é a metade de 100, o resultado que procuramos é a metade de 16, logo 8.
 
 > Quando pensamos em proporção, devemos pensar em multiplicação e divisão, nunca adição.
 >
