@@ -10,7 +10,7 @@ O site nos permite ver todas as estruturas da célula eucarionte animal em detal
 
 ![célula](./celula.png)
 
-Mitocôndria:
+Organela:
 
 ![mitocondria](./mitocondria.png)
 
@@ -31,16 +31,23 @@ A membrana possui permeabilidade seletiva. Isso significa que algumas substânci
 
 ![Membrana plasmatica](./membrana.jpg)
 
-- Casca de fosfolipídios:
--
--
-modelo mosaico fluido
-
 ### Recomendação de exercício:
 
-Copie a seguinte tabela e complete-a com ``+`` ou ``-``
+Copie a seguinte tabela e complete-a com ``+`` ou ``-`` no lugar dos x, pensando se a célula em questão possui ou não o componente celular.
 
-|Componentes celulares | Função | Procarionte (bactéria) | (fazer tabela aqui)|
----------|------------
-|akdnasd | asdajdsn|
+|Componentes celulares|Função|Procarionte (bactéria)|Eucarionte animal|Eucarionte vegetal|
+-----|-----|----|----|---
+|Parede celular |Proteção: estrutura de suporte|x|x|x|
+|Membrana celular|Controle da entrada e saída de substâncias|x|x|x|
+|Núcleo|Contém o material genético|x|x|x|
+|Nucleóide|Material genético|x|x|x|
+|Mitocôndrias|Respiração aeróbica|x|x|x|
+|Cloropastos|Fotossíntese|x|x|x|
+|Vacúolo central|Reserva de água e outras substâncias|x|x|x|
+|Citoplasma|Contém as organelas e várias substâncias|x|x|x|
+|Ribossomos|Síntese de proteínas|x|x|x|
+|Retículo endoplasmático|Síntese e transporte de proteínas e lipídios|x|x|x|
+|Complexo golgiense|Transformação de proteínas e lipídios|x|x|x|
+|Lisossomos|Contém as enzimas digestivas|x|x|x|
+
 
