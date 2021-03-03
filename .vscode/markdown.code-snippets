@@ -1,0 +1,58 @@
+{
+    "Título de Discliplina": {
+        "prefix": "sn:titulo:disciplina",
+        "body": "# ${Disciplina} - ${X}º Bimestre",
+        "description": "O título da disciplina, com o bimestre."
+    },
+    "Título do Conteúdo": {
+        "prefix": "sn:titulo:conteudo",
+        "body": "## ${Conteudo}",
+        "description": "O título da conteúdo."
+    },
+    "Anotação com data da aula": {
+        "prefix": "sn:nota:data",
+        "body": "> ${dia}/${mes}/${ano}",
+        "description": "Uma anotação com um data da aula"
+    },
+    "Anotação com Link": {
+        "prefix": "sn:nota:link",
+        "body": "> ${texto}: ${url}",
+        "description": "Uma anotação com um link"
+    },
+    "Tabela de 2 colunas": {
+        "prefix": "sn:tabela:2",
+        "body": [
+            "| ${coluna1} | ${coluna2} |",
+            "| ------- | ------- |",
+            "| ${texto1}  | ${texto2}  |"
+        ],
+        "description": "Uma tabela com duas colunas"
+    },
+    "Tabela de 3 colunas": {
+        "prefix": "sn:tabela:3",
+        "body": [
+            "| ${coluna1} | ${coluna2} | ${coluna3} |",
+            "| ------- | ------- | ------- |",
+            "| ${texto1}  | ${texto2}  | ${texto3}  |"
+        ],
+        "description": "Uma tabela com três colunas"
+    },
+    "Tabela de 4 colunas": {
+        "prefix": "sn:tabela:4",
+        "body": [
+            "| ${coluna1} | ${coluna2} | ${coluna3} | ${coluna4} |",
+            "| ------- | ------- | ------- | ------- |",
+            "| ${texto1}  | ${texto2}  | ${texto3}  | ${texto4}  |"
+        ],
+        "description": "Uma tabela com quatro colunas"
+    },
+    "Tabela de 5 colunas": {
+        "prefix": "sn:tabela:5",
+        "body": [
+            "| ${coluna1} | ${coluna2} | ${coluna3} | ${coluna4} | ${coluna5} |",
+            "| ------- | ------- | ------- | ------- | ------- |",
+            "| ${texto1}  | ${texto2}  | ${texto3}  | ${texto4}  | ${texto5}  |"
+        ],
+        "description": "Uma tabela com cinco colunas"
+    }
+}
