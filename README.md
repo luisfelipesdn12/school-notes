@@ -10,6 +10,8 @@ Anotações da minha escola — um caderninho :)
   - [1º Bimestre](./portugues/1bim)
 - [Química](./quimica)
   - [1º Bimestre](./quimica/1bim)
+- [Sociologia](./sociologia)
+  - [1º Bimestre](./sociologia/1bim)
 - [Tecnologia](./tecnologia)
   - [1º Bimestre](./tecnologia/1bim)
 
