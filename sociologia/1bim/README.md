@@ -24,7 +24,7 @@ Depois, vimos que podemos idealizar a cultura de um povo, a partir de elementos 
 
 ### Racioncínio humano
 
-Foi discutido a diferença entre os honecessariamentes e foi comentado o (clichê) conceito de animal racional.
+Foi discutido a diferença entre os homens e os animais e foi comentado o (clichê) conceito de animal racional.
 
 Vimos que modificar a natureza não é necessariamente humano, pois, por exemplo, o castor, modifica até mesmo fluxos de rios. Contudo, essa ação não é necessariamente racionalizada anteriormente.
 
