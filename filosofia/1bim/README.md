@@ -26,3 +26,18 @@
 - Modo legal de agir: é imposta aos cidadâos, exige o cumprimento e obediência.
 - Normas e regras legais: é guiada pelas instituições jurídicas/leis.
 - Jurídico: torna lei um pensamento geral.
+
+---
+
+### Livro
+> Link: https://drive.google.com/file/d/1n1BsJKmN824KzVGrt1vUKNHPJKVUfW51/view
+
+Filosofando: Introdução à Filosofia
+1º, 2º e 3º anos - Ensino Médio
+Maria Lúcia de Arruda Aranha
+Maria Helena Pires Martins
+
+Página 162: Capítulo 12 - Moral, ética e ética aplicada
+
+### Atividade
+Ler o capítulo e responder às primeiras 3 atividades da pag. 173.
