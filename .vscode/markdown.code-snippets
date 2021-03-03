@@ -9,6 +9,11 @@
         "body": "## ${Conteudo}",
         "description": "O título da conteúdo."
     },
+    "Anotação com data da aula": {
+        "prefix": "sn:nota:data",
+        "body": "> ${dia}/${mes}/${ano}",
+        "description": "Uma anotação com um data da aula"
+    },
     "Anotação com Link": {
         "prefix": "sn:nota:link",
         "body": "> ${texto}: ${url}",
