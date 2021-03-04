@@ -115,11 +115,9 @@ Se 50 é a metade de 100, o resultado que procuramos é a metade de 16, logo 8.
 ## Exercícios de porcentagem
 > 04/03/2021
 
-Revimos o conceito de porcentagem.
+Revisamos o conceito de porcentagem e resolvemos 3 questões do Enem.
 
-Vimos 3 questões do ENEM, fomos instruídos à sempre ler a pergunta final antes de ler o texto todo.
-
-Resolvemos juntos as três:
+Dica: no Enem, sempre leia o final das questões antes do resto do enunciado.
 
 ### Exercícios:
 
