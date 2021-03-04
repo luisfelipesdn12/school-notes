@@ -109,3 +109,12 @@ Se 50 é a metade de 100, o resultado que procuramos é a metade de 16, logo 8.
 > Quando pensamos em proporção, devemos pensar em multiplicação e divisão, nunca adição.
 >
 > Suponhamos que uma receita tem 1 lata de leite e 3 colheres de chocolate, se aumentarmos 1 lata, não devemos aumentar 1 colher (adicionando). Como multiplicamos a quantidade de latas por 2, devemos fazer o mesmo com as colheres, multiplicando 3 por 2, temos 6 colheres de chocolate.
+
+## Exercícios de porcentagem
+> 04/03/2021
+
+Revimos o conceito de porcentagem.
+
+Vimos 3 questões do ENEM, fomos instruídos à sempre ler a pergunta final antes de ler o texto todo.
+
+Resolvemos juntos as três.
