@@ -221,7 +221,7 @@ b) normal.
 
 c) pré-diabetes.
 
-d) diabetes melito.
+d) diabetes melito. <--
 
 e) hiperglicemia.
 
