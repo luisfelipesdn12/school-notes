@@ -170,7 +170,7 @@ Considerando as ideias apresentadas nos textos e também outras informações qu
 - Até sexta-feira (05/03/2021 às 23h59m).
 
 ## Debate de obras
-> 03/03/2021
+> 04/03/2021
 
 Fomos apresentados à duas obras:
 - O ensaio sobre a cegueira.
