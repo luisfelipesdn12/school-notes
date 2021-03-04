@@ -17,7 +17,9 @@
 | Losango        | Medidas iguais e paralelas sem ângulos retos ?      |
 | Retângulo      | Todos os quatro lados paralelos e com angulos retos |
 | Quadrado       | Retângulo com lados iguais                          |
--------------------
+
+---
+
 ### Ângulos
 
 | Nome                      | Definição                                            |
@@ -63,13 +65,15 @@ Foram revistos os conceitos de OPV e Alternos internos.
 
 - Num triângulo dentro de um retângulo, foram calculadas os valores dedos seus ângulos internos.
 - Com dois triângulos (um em cima do outro) unidos pelo vértice, tínhamos que o ângulo interno do vértice do triângulo inferior valia 70°, logo, se aferiu o mesmo valor ao ângulo interno do vértice do triângulo superior.
-------------------
+
+---
+
 ### Ângulos internos de um polígono regular
 Foi comentado que estudamos muito triângulos, pois, quando temos polígonos (regulares) mais complexos, podemos transformá-los em triângulos para facilitar a sua análise.
 
 ![Polígonos regulares em triângulos](poligonos_regulares_em_triangulos.jpg)
 
-----------------------
+---
 
 ## Porcentagem
 > 02/03/2021 — Aula 2
@@ -111,9 +115,13 @@ Se 50 é a metade de 100, o resultado que procuramos é a metade de 16, logo 8.
 > Quando pensamos em proporção, devemos pensar em multiplicação e divisão, nunca adição.
 >
 > Suponhamos que uma receita tem 1 lata de leite e 3 colheres de chocolate, se aumentarmos 1 lata, não devemos aumentar 1 colher (adicionando). Como multiplicamos a quantidade de latas por 2, devemos fazer o mesmo com as colheres, multiplicando 3 por 2, temos 6 colheres de chocolate.
----------------------
+
+---
+
 ## Exercícios de porcentagem
 > 04/03/2021
+
+> [Documento usado em aula](./Semana%203.4%20-%20Problemas%20Porcentagem.pdf)
 
 Revisamos o conceito de porcentagem e resolvemos 3 questões do Enem.
 
@@ -122,9 +130,9 @@ Dica: no Enem, sempre leia o final das questões antes do resto do enunciado.
 ### Exercícios:
 
 1 - O quadro representa os gastos mensais de uma família com internet, mensalidade escolar e mesada do filho.
-|Internet|Mensalidade|Mesada|
-|--------|-----------|------|
-|  120   |    700    |  400 |
+| Internet | Mensalidade | Mesada |
+| -------- | ----------- | ------ |
+| 120      | 700         | 400    |
 
 No início do ano, a **internet** e a **mensalidade escolar** tiveram acréscimos, respectivamente, de **20%** e de **10%**.
 Necessitando manter o valor total da despesa mensal, a família reduzirá a mesada do filho.
@@ -172,7 +180,7 @@ __________
 ‾‾‾‾‾‾‾‾‾‾
 ```
 
-2 - Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano de 2000, era de **R$1250,00**. Já o censo de 2010 mostrou que esse valor teve um aumento de **7,2%** em relação a 2000. Há uma projeção de que, em 2020, o rendimento  médio mensal dos trabalhadores brasileiros será de **10%** maior que em 2010.
+2 - Segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), o rendimento médio mensal dos trabalhadores brasileiros, no ano de 2000, era de **R$1250,00**. Já o censo de 2010 mostrou que esse valor teve um aumento de **7,2%** em relação a 2000. Há uma projeção de que, em 2020, o rendimento médio mensal dos trabalhadores brasileiros será de **10%** maior que em 2010.
 **Supondo que as projeções estejam certas, o rendimento mensal dos brasileiros em 2020 será de:**
 
 a) R$1 340,00
@@ -203,13 +211,13 @@ ______
 
 3 - Um laboratório realiza exames em que é possível observar a taxa de glicose de uma pessoa. Os resultados são analisados de acordo com o quadro a seguir:
 
-|   glicemia    |                          descrição                            |
-|---------------|---------------------------------------------------------------|
-|  Hipoglicemia |          taxa de glicose menor ou igual a 70mg/dL.            |
-|     Normal    |taxa de glicose maior que 70 mg/dL e menor ou igual a 100mg/dL.|
-|  Pré-diabetes |taxa de glicose maior que 100mg/dL e menor ou igual a 125mg/dL.|
-|Diametes Melito|taxa de glicose maior que 125mg/dL e menor ou igual a 250mg/dL.|
-| Hiperglicemia |              taxa de glicose maior que 250mg/dL.              |
+| glicemia        | descrição                                                       |
+| --------------- | --------------------------------------------------------------- |
+| Hipoglicemia    | taxa de glicose menor ou igual a 70mg/dL.                       |
+| Normal          | taxa de glicose maior que 70 mg/dL e menor ou igual a 100mg/dL. |
+| Pré-diabetes    | taxa de glicose maior que 100mg/dL e menor ou igual a 125mg/dL. |
+| Diametes Melito | taxa de glicose maior que 125mg/dL e menor ou igual a 250mg/dL. |
+| Hiperglicemia   | taxa de glicose maior que 250mg/dL.                             |
 
 Um paciente fez um exame de glicose nesse laboratório e comprovou que estava com hiperglicemia. Sua taxa de glicose era de 300mg/dL. Seu médico prescreveu um tratamento em duas etapas. Na primeira etapa ele conseguiu reduzir sua taxa em **30%** e na segunda etapa em **10%**.
 
