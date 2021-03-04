@@ -168,3 +168,21 @@ Considerando as ideias apresentadas nos textos e também outras informações qu
 - Lembrar de dar um título.
 - Lembrar de fazer uma conclusão.
 - Até sexta-feira (05/03/2021 às 23h59m).
+
+## Debate de obras
+> 03/03/2021
+
+Fomos apresentados à duas obras:
+- O ensaio sobre a cegueira.
+- É tudo pra ontem.
+
+Vimos uma sabatina com o autor de "O ensaio sobre a cegueira".
+> Vídeo: https://www.youtube.com/watch?v=BOLhNxBo6Xo
+
+E o trailer do filme.
+> Vídeo: https://www.youtube.com/watch?v=o4Fyw01Qokw
+
+O clipe de "É tudo pra ontem" do Emicida.
+> Vídeo: https://www.youtube.com/watch?v=qbQC60p5eZk
+
+Discutimos as relações entre as obras e as críticas acerca delas.

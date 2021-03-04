@@ -78,3 +78,14 @@ Sobrenomes de servos e pobres, carregam o sobrenome de ocupação.
 
 Sobrenomes de pessoas "de linhagem", carregavam sobrenomes de terras que dominavam.
 > Bragança, Orléans, etc.
+
+## Tipos de Trabalho
+> 04/03/2021
+
+Os gregos dividiam o trabalho em dois tipos. E definiram que o trabalho mais dígno é o trabalho das idéias. Na época, seriam as filosofias, a política e as artes.
+
+Segundo eles, um homem verdadeiramente livre, vive no ócio. Só tinha direito ao ócio quem tinha todas as questões de sobrevivência resolvidas.
+
+Vimos o conceito de àgora, onde era discutido publicamente vários tópicos racionalmente.
+
+Abordamos o conceito de deixar quem constrói algo, anexo ao uso desse algo. Seja uma cidade, uma casa, etc.
