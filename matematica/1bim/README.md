@@ -31,7 +31,9 @@
 
 ![Exemplo alterno externo](https://conhecimentocientifico.r7.com/wp-content/uploads/2020/12/angulos-alternos-internos-o-que-sao-definicao-e-principais-caracteristicas-2-960x523.png)
 > Exemplo alterno externo
---------
+
+---
+
 ## Triângulos e ângulos internos
 > 20/03/2021 — Aula 1
 
@@ -130,6 +132,7 @@ Dica: no Enem, sempre leia o final das questões antes do resto do enunciado.
 ### Exercícios:
 
 1 - O quadro representa os gastos mensais de uma família com internet, mensalidade escolar e mesada do filho.
+
 | Internet | Mensalidade | Mesada |
 | -------- | ----------- | ------ |
 | 120      | 700         | 400    |

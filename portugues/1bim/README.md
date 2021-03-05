@@ -170,22 +170,26 @@ Considerando as ideias apresentadas nos textos e também outras informações qu
 - Até sexta-feira (05/03/2021 às 23h59m).
 
 ## Debate de obras
-> 03/03/2021
+> 04/03/2021
 
-Fomos apresentados à duas obras:
-- O ensaio sobre a cegueira.
-- É tudo pra ontem.
+Fomos introduzidos ao livro "Ensaio Sobre a Cegueira", de José Saramago, e iniciamos um debate acerca da intertextualidade entre as três seguintes obras:
 
-Vimos uma sabatina com o autor de "O ensaio sobre a cegueira".
-> Vídeo: https://www.youtube.com/watch?v=BOLhNxBo6Xo
+- [Uma sabatina com o autor José Saramago](https://www.youtube.com/watch?v=BOLhNxBo6Xo).
 
-E o trailer do filme.
-> Vídeo: https://www.youtube.com/watch?v=o4Fyw01Qokw
+- [Trailer da adaptação cinematográfica do livro "Ensaio Sobre a Cegueira"](https://www.youtube.com/watch?v=o4Fyw01Qokw).
 
-O clipe de "É tudo pra ontem" do Emicida.
-> Vídeo: https://www.youtube.com/watch?v=qbQC60p5eZk
+- [Clipe da música "É tudo pra ontem", do Emicida](https://www.youtube.com/watch?v=qbQC60p5eZk).
 
 Discutimos as relações entre as obras e as críticas acerca delas.
+
+Discutimos os seguintes tópicos relacionados com as obras acima:
+
+- "Partir, voltar e repartir". Essa sequência se repete diversas vezes ao longo da música.
+- A sequência apresenta certa ambiguiade quando percebemos que "partir" e "repartir" possuem mais de um sentido. Essa característica da música se perde quando traduzida para outra línguas.
+- No clipe da música, o conto narrado por Gilberto Gil sobre a humanidade nos mostra que mesmo tendo falhas, ainda temos características positivas.
+- "E se fossemos todos cegos?" Esse foi o questionamento de Saramago que originou o livro "Ensaio Sobre a Cegueira". Ele chegou à conclusão de que, de certa forma, já somos todos cegos.
+- Ao assistir ao trailer do filme e extrair mais informações sobre a obra, concluímos que a real visão é adquirida.
+- O fato da cegueira retratada ser branca mostra um aspecto importante da obra. Isso porque, quando questionado sobre a cor da cegueira, fez questão de enfatizar que ela era branca, indo contra o pensamento de outros que alegavam que a cegueira é negra.
 
 ## Vida Maria: Debate
 > 05/03/2021 (2 aulas)
