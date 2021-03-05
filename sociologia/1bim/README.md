@@ -89,3 +89,14 @@ Segundo eles, um homem verdadeiramente livre, vive no ócio. Só tinha direito a
 Vimos o conceito de àgora, onde era discutido publicamente vários tópicos racionalmente.
 
 Abordamos o conceito de deixar quem constrói algo, anexo ao uso desse algo. Seja uma cidade, uma casa, etc.
+
+## Criação dos burgos e surgimento da burguesia
+> 05/03/2021
+
+Nessa aula, nós analisamos um exemplo de um servo ferreiro da Idade Média que se tornou um burguês através da compra de sua liberdade.
+
+Fomos introduzidos ao conceito de burgos, que eram os locais onde as feiras aconteciam. Nessas feiras, havia a diversidade cultural, uma vez que os comerciantes vinham dos mais variados locais.
+
+Um ferreiro, que acumulasse dinheiro o bastante, poderia comprar sua liberdade por meio do senhor feudal. Esse ferreiro se mudaria para o burgo, onde manteria seu trabalho juntamente de sua família.
+
+Essa organização familiar trabalharia no formato de manufatura. Isso significa que não existe uma produção industrial, mas sim manual, feita de cliente a cliente. Outro ponto importante de se ressaltar é que o valor cobrado pelo ferreiro será apenas o bastante para ele sobreviver até o próximo trabalho. Isso ocorria pois o conceito de acumulação de riquezas ainda não estava formado.
