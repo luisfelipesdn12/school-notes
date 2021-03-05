@@ -186,3 +186,10 @@ O clipe de "É tudo pra ontem" do Emicida.
 > Vídeo: https://www.youtube.com/watch?v=qbQC60p5eZk
 
 Discutimos as relações entre as obras e as críticas acerca delas.
+
+## Vida Maria: Debate
+> 05/03/2021 (2 aulas)
+
+Foi-nos apresentado o curta "Vida Maria' e debatemos acerca da obra.
+
+> Link do filme : https://www.youtube.com/watch?v=yFpoG_htum4
