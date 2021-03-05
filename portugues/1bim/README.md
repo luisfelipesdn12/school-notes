@@ -180,6 +180,8 @@ Fomos introduzidos ao livro "Ensaio Sobre a Cegueira", de José Saramago, e inic
 
 - [Clipe da música "É tudo pra ontem", do Emicida](https://www.youtube.com/watch?v=qbQC60p5eZk).
 
+Discutimos as relações entre as obras e as críticas acerca delas.
+
 Discutimos os seguintes tópicos relacionados com as obras acima:
 
 - "Partir, voltar e repartir". Essa sequência se repete diversas vezes ao longo da música.
@@ -188,3 +190,10 @@ Discutimos os seguintes tópicos relacionados com as obras acima:
 - "E se fossemos todos cegos?" Esse foi o questionamento de Saramago que originou o livro "Ensaio Sobre a Cegueira". Ele chegou à conclusão de que, de certa forma, já somos todos cegos.
 - Ao assistir ao trailer do filme e extrair mais informações sobre a obra, concluímos que a real visão é adquirida.
 - O fato da cegueira retratada ser branca mostra um aspecto importante da obra. Isso porque, quando questionado sobre a cor da cegueira, fez questão de enfatizar que ela era branca, indo contra o pensamento de outros que alegavam que a cegueira é negra.
+
+## Vida Maria: Debate
+> 05/03/2021 (2 aulas)
+
+Foi-nos apresentado o curta "Vida Maria' e debatemos acerca da obra.
+
+> Link do filme : https://www.youtube.com/watch?v=yFpoG_htum4

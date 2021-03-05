@@ -82,7 +82,7 @@ Sobrenomes de pessoas "de linhagem", carregavam sobrenomes de terras que dominav
 ## Tipos de Trabalho
 > 04/03/2021
 
-Os gregos dividiam o trabalho em dois tipos. E definiram que o trabalho mais dígno é o trabalho das idéias. Na época, seriam as filosofias, a política e as artes.
+Os gregos dividiam o trabalho em dois tipos, e definiram que o trabalho mais digno é o trabalho das ideias. Na época, seriam as filosofias, a política e as artes.
 
 Segundo eles, um homem verdadeiramente livre, vive no ócio. Só tinha direito ao ócio quem tinha todas as questões de sobrevivência resolvidas.
 
@@ -93,7 +93,15 @@ Abordamos o conceito de deixar quem constrói algo, anexo ao uso desse algo. Sej
 ## Criação dos burgos e surgimento da burguesia
 > 05/03/2021
 
-Nessa aula, nós analisamos um exemplo de um servo ferreiro da Idade Média que se tornou um burguês através da compra de sua liberdade.
+Nós revimos os conceitos de posição profissional passada de geração em geração, inclusive no sobrenome.
+
+Além disso, vimos que no feudo, os habitantes não tinham lealdade aos senhores feudais, mas sim às terras.
+
+Vimos que hoje em dia, as pessoas têm propriedade das suas terras do solo para cima, do solo para baixo, a propriedade é do governo. Abordamos também que o Brasil, por não investir na indústria nacional de metalurgia, vende terra praticamente bruta à China à preço de ferro puro. Contudo, a China refina a terra e acha, por ventura, outros minérios como ouro e estanho.
+
+Também analisamos um exemplo de um servo ferreiro da Idade Média que se tornou um burguês através da compra de sua liberdade.
+
+Nos feudos, as utilidades eram feitas de formas artesanais, como sapatos de sapateiros e roupas de alfaiates. A distinção entre utilidade e arte era ténue.
 
 Fomos introduzidos ao conceito de burgos, que eram os locais onde as feiras aconteciam. Nessas feiras, havia a diversidade cultural, uma vez que os comerciantes vinham dos mais variados locais.
 
