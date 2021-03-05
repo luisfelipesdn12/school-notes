@@ -82,10 +82,23 @@ Sobrenomes de pessoas "de linhagem", carregavam sobrenomes de terras que dominav
 ## Tipos de Trabalho
 > 04/03/2021
 
-Os gregos dividiam o trabalho em dois tipos. E definiram que o trabalho mais dígno é o trabalho das idéias. Na época, seriam as filosofias, a política e as artes.
+Os gregos dividiam o trabalho em dois tipos, e definiram que o trabalho mais digno é o trabalho das ideias. Na época, seriam as filosofias, a política e as artes.
 
 Segundo eles, um homem verdadeiramente livre, vive no ócio. Só tinha direito ao ócio quem tinha todas as questões de sobrevivência resolvidas.
 
 Vimos o conceito de àgora, onde era discutido publicamente vários tópicos racionalmente.
 
 Abordamos o conceito de deixar quem constrói algo, anexo ao uso desse algo. Seja uma cidade, uma casa, etc.
+
+## O Burgo
+> 05/03/2021
+
+Nós revimos os conceitos de posição profissional passada de geração em geração, inclusive no sobrenome.
+
+Além disso, vimos que no feudo, os habitantes não tinham lealdade aos senhores feudais, mas sim as terras.
+
+Vimos que hoje em dia, as pessoas têm propriedade das suas terras do solo para cima, do solo para baixo, a propriedade é do governo. Abordamos também que o Brasil, por não investir na indústria nacional de metalurgia, vende terra praticamente bruta à China à preço de ferro puro. Contudo, a China refina a terra e acha, por ventura, outros minérios como ouro e estanho.
+
+Nos feudos, as utilidades eram feitas de formas artesanais, como sapatos de sapateiros e roupas de alfaiates. A distinção entre utilidade e arte era ténue.
+
+Entre feudos, se formavam corredores de feiras e trocas: os burgos.
