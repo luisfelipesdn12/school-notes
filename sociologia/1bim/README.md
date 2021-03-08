@@ -90,15 +90,21 @@ Vimos o conceito de àgora, onde era discutido publicamente vários tópicos rac
 
 Abordamos o conceito de deixar quem constrói algo, anexo ao uso desse algo. Seja uma cidade, uma casa, etc.
 
-## O Burgo
+## Criação dos burgos e surgimento da burguesia
 > 05/03/2021
 
 Nós revimos os conceitos de posição profissional passada de geração em geração, inclusive no sobrenome.
 
-Além disso, vimos que no feudo, os habitantes não tinham lealdade aos senhores feudais, mas sim as terras.
+Além disso, vimos que no feudo, os habitantes não tinham lealdade aos senhores feudais, mas sim às terras.
 
 Vimos que hoje em dia, as pessoas têm propriedade das suas terras do solo para cima, do solo para baixo, a propriedade é do governo. Abordamos também que o Brasil, por não investir na indústria nacional de metalurgia, vende terra praticamente bruta à China à preço de ferro puro. Contudo, a China refina a terra e acha, por ventura, outros minérios como ouro e estanho.
 
+Também analisamos um exemplo de um servo ferreiro da Idade Média que se tornou um burguês através da compra de sua liberdade.
+
 Nos feudos, as utilidades eram feitas de formas artesanais, como sapatos de sapateiros e roupas de alfaiates. A distinção entre utilidade e arte era ténue.
 
-Entre feudos, se formavam corredores de feiras e trocas: os burgos.
+Fomos introduzidos ao conceito de burgos, que eram os locais onde as feiras aconteciam. Nessas feiras, havia a diversidade cultural, uma vez que os comerciantes vinham dos mais variados locais.
+
+Um ferreiro, que acumulasse dinheiro o bastante, poderia comprar sua liberdade por meio do senhor feudal. Esse ferreiro se mudaria para o burgo, onde manteria seu trabalho juntamente de sua família.
+
+Essa organização familiar trabalharia no formato de manufatura. Isso significa que não existe uma produção industrial, mas sim manual, feita de cliente a cliente. Outro ponto importante de se ressaltar é que o valor cobrado pelo ferreiro será apenas o bastante para ele sobreviver até o próximo trabalho. Isso ocorria pois o conceito de acumulação de riquezas ainda não estava formado.
