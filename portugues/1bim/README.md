@@ -192,8 +192,15 @@ Discutimos os seguintes tópicos relacionados com as obras acima:
 - O fato da cegueira retratada ser branca mostra um aspecto importante da obra. Isso porque, quando questionado sobre a cor da cegueira, fez questão de enfatizar que ela era branca, indo contra o pensamento de outros que alegavam que a cegueira é negra.
 
 ## Vida Maria: Debate
-> 05/03/2021 (2 aulas)
+> 05/03/2021 (Aula 1)
 
 Foi-nos apresentado o curta "Vida Maria' e debatemos acerca da obra.
 
 > Link do filme : https://www.youtube.com/watch?v=yFpoG_htum4
+
+## Sementes: Debate
+> 05/03/2021 (Aula 2)
+
+Vimos o clipe da música "Sementes" do Emicida.
+
+> Link do filme: https://www.youtube.com/watch?v=C7l0AB--I3c
