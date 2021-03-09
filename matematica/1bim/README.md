@@ -288,3 +288,9 @@ Nessa, existem diversas abordagens do que seria "justo", vimos e discutimos acer
 ### Revisão de operações
 
 Demos uma pairada sobre conceitos "basicos" de ordem de oerações, operações inversas, uso de parênteses para a mudança de ordem, e outros conceitos do gênero.
+
+---
+## Operações
+> 09/03/2021
+
+Revimos mais sobre operações, com propriedades distributivas, forças das operações, mudanças dos resultados em função da ordem, etc.
