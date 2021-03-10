@@ -108,3 +108,17 @@ Fomos introduzidos ao conceito de burgos, que eram os locais onde as feiras acon
 Um ferreiro, que acumulasse dinheiro o bastante, poderia comprar sua liberdade por meio do senhor feudal. Esse ferreiro se mudaria para o burgo, onde manteria seu trabalho juntamente de sua família.
 
 Essa organização familiar trabalharia no formato de manufatura. Isso significa que não existe uma produção industrial, mas sim manual, feita de cliente a cliente. Outro ponto importante de se ressaltar é que o valor cobrado pelo ferreiro será apenas o bastante para ele sobreviver até o próximo trabalho. Isso ocorria pois o conceito de acumulação de riquezas ainda não estava formado.
+
+---
+## Trabalho por Karl Marx
+> 10/03/2021
+
+Revimos brevemente o conceito apresentado na [aula passada](##-Criação-dos-burgos-e-surgimento-da-burguesia).
+
+Foi apresentado, vídeos do "Sociologia Animada". Os vídeos foram:
+- [Karl Marx - Materialismo Histórico Dialético](https://youtu.be/pGUhM-i3PK0)
+- [Karl Marx - Trabalho como categoria central](https://youtu.be/AvuC8ELkFcA)
+
+---
+
+A forma de ver o mundo, religiosidade e cultura são moldadas de acordo com o trabalho.
