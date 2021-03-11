@@ -312,4 +312,10 @@ de emitir sons absurdos e agônicos: desejo, amor, ciúme
 como pedras aflitas e queimam a erva e a água,    
 e difícil, depois disto, é ruminarmos nossa verdade.    
 
+---
+
+A professora está lendo dois livros:
+
+- [A Mulher de Pés Descalços](https://www.amazon.com.br/Mulher-P%C3%A9s-Descal%C3%A7os-Scholastique-Mukasonga/dp/856902018X)
+- [O racismo e o negro no Brasil: Questões para a psicanálise](https://www.amazon.com.br/Racismo-Negro-Brasil-Quest%C3%B5es-Psican%C3%A1lise/dp/8527311038)
 
