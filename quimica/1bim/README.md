@@ -48,3 +48,45 @@ Mistura de compostos que se comporta como uma substância pura e evaporam a uma 
   - acetona (86,5%) + metanol (13,5%)
   - álcool etílico (7%) + clorofórmio (93%)
   - ácido fórmico (77,5%) + água (22,5%)
+
+---
+
+## Separação de misturas
+> Não anotado ainda T.T
+
+---
+
+## Concentração das soluções
+> 10/03/2021
+
+> [Documento usado em aula](./Tema%206%20-%20MOL%20-%20ESTEQUIOMETRIA%20.pdf)
+
+```
+C = m/V
+concentração = massa/volume
+```
+
+```
+ 100g de soluto
+       | 
+       v
+|             |
+|-------------|
+|    0,5L     |
+| de solvente |
+|-------------|
+
+C = 100ml / 0,5L
+C = 200g/L
+C = 200 gramas por litro
+```
+
+### Exercícios
+80g de sal em 500ml de água:
+
+```
+C = 80g / 500ml
+C = 80g / 0,5L
+C = 160g/L
+C = 160 gramas por litro
+```
