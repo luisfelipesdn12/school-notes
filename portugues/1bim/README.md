@@ -275,28 +275,41 @@ Perguntas respondidas pelo próprio autor, a fim de desestabilizar o adversário
 Foi-nos apresentado um certo contexto e depois o texto "Um Boi vê os Homens" de Carlos Drummond de Andrade.
 > PDF: [Um boi vê os homens [Claro enigma]](./UM-BOI-VE-OS-HOMENS.pdf)
 
-Carlos Drummond de Andrade
-Tão delicados (mais que um arbusto) e correm
-e correm de um para outro lado, sempre esquecidos
-de alguma coisa. Certamente, falta-lhes
-não sei que atributo essencial, posto se apresentem nobres
-e graves, por vezes. Ah, espantosamente graves,
-até sinistros. Coitados, dir-se-ia não escutam
-nem o canto do ar nem os segredos do feno,
-como também parecem não enxergar o que é visível
-e comum a cada um de nós, no espaço. E ficam tristes
-e no rasto da tristeza chegam à crueldade.
-Toda a expressão deles mora nos olhos — e perde-se
-a um simples baixar de cílios, a uma sombra.
-Nada nos pelos, nos extremos de inconcebível fragilidade,
-e como neles há pouca montanha,
+Tão delicados (mais que um arbusto) e correm    
+e correm de um para outro lado, sempre esquecidos    
+de alguma coisa. Certamente, falta-lhes    
+não sei que atributo essencial, posto se apresentem nobres    
+e graves, por vezes. Ah, espantosamente graves,    
+> Discutimos a relação com o mundo modernos, onde há
+> pressa sem objetivo, principalmente em metrópoles.
+> Além de uma certa arrogância.
+
+até sinistros. Coitados, dir-se-ia não escutam    
+nem o canto do ar nem os segredos do feno,    
+como também parecem não enxergar o que é visível    
+e comum a cada um de nós, no espaço. E ficam tristes    
+> Vimos que "o que é comum a cada um de nós" seria
+> a mortalidade.
+
+e no rasto da tristeza chegam à crueldade.    
+> A ideia de crueldade: os seres que seriam
+> são mais racionais, são os mais cruéis.
+> Na natureza, se mata por instinto ou por
+> sobrevivência. O ser humano, mata por prazer.
+
+Toda a expressão deles mora nos olhos — e perde-se    
+a um simples baixar de cílios, a uma sombra.    
+Nada nos pelos, nos extremos de inconcebível fragilidade,    
+e como neles há pouca montanha,    
 e que secura e que reentrâncias e que
-impossibilidade de se organizarem em formas calmas,
-permanentes e necessárias. Têm, talvez,
-certa graça melancólica (um minuto) e com isto se fazem
-perdoar a agitação incômoda e o translúcido
-vazio interior que os torna tão pobres e carecidos
-de emitir sons absurdos e agônicos: desejo, amor, ciúme
-(que sabemos nós?), sons que se despedaçam e tombam no campo
-como pedras aflitas e queimam a erva e a água,
-e difícil, depois disto, é ruminarmos nossa verdade.
+impossibilidade de se organizarem em formas calmas,    
+permanentes e necessárias. Têm, talvez,    
+certa graça melancólica (um minuto) e com isto se fazem    
+perdoar a agitação incômoda e o translúcido    
+vazio interior que os torna tão pobres e carecidos    
+de emitir sons absurdos e agônicos: desejo, amor, ciúme    
+(que sabemos nós?), sons que se despedaçam e tombam no campo    
+como pedras aflitas e queimam a erva e a água,    
+e difícil, depois disto, é ruminarmos nossa verdade.    
+
+
