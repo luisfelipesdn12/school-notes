@@ -4,6 +4,8 @@ Anotações da minha escola — um caderninho :)
 ---
 
 ## Tabela de conteúdos
+- [Biologia](./biologia)
+  - [1º Bimestre](./biologia/1bim)
 - [Filosofia](./filosofia)
   - [1º Bimestre](./filosofia/1bim)
 - [Matemática](./matematica)
