@@ -50,3 +50,22 @@ Copie a seguinte tabela e complete-a com ``+`` ou ``-`` no lugar dos x, pensando
 | Retículo endoplasmático | Síntese e transporte de proteínas e lipídios | x                      | x                 | x                  |
 | Complexo golgiense      | Transformação de proteínas e lipídios        | x                      | x                 | x                  |
 | Lisossomos              | Contém as enzimas digestivas                 | x                      | x                 | x                  |
+
+---
+
+## Divisão celular
+> 12/03/2021
+
+Uma célula mãe dá origem a 2 ou 4 células filhas.
+
+![divisão celular](./divisao.jpg)
+
+O DNA da mãe tem que ser o mesmo para os filhos.
+
+O que é o gene: é um trecho do cromossomo que armazena a informação no DNA.
+
+No núcleo, quando é feita a divisão, o DNA se estica para a divisão, para não ficar frágil, as proteínas se condensam.
+
+O conjunto de cromossomos é o DNA.
+
+Cromossomo homólogo: pares iguais de cromossomos. Carregam genes parecidos.
