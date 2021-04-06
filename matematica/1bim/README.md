@@ -301,3 +301,43 @@ Revimos mais sobre operações, com propriedades distributivas, forças das oper
 > 05/04/2021
 
 > [Documento usado em aula](./Semana%205.1%20-%20Operações%20e%20Gráficos.pdf)
+
+---
+
+## Exercícios de gráficos
+> 06/04/2021
+
+Revisamos o conceito de gráficos, servindo para mostrar comparações, tendências, etc.
+
+---
+
+Resolvemos o seguinte exercício juntos:
+
+> ENEM 2019:
+> Um comerciante, que vende somente pastel, refrigerante em lata e caldo de cana em copos, fez um levantamento das vendas realizadas durante a semana. O resultado desse levantamento está apresentado no gráfico.
+>
+> ![Vendas na última semana enem 2019](./vendas_ultima_semana_enem_2019.jpg)
+>
+> Ele estima que venderá, em cada dia da próxima semana, uma quantidade de refrigerante em lata igual à soma das quantidades de refrigerante em lata e caldo de cana em copos vendidas no respectivo dia da última semana.
+>
+> Quanto aos pastéis, estima vender, a cada dia da próxima semana, uma quantidade igual à quantidade de refrigerante em lata que prevê vender em tal dia. Já para o número de caldo de cana em copos, estima que as vendas diárias serão iguais às da última semana.
+>
+> Segundo essas estimativas, a quantidade a mais de pastéis que esse comerciante deve vender na próxima semana é:
+>
+> a. 20.    
+> b. 27.    
+> c. 44.    
+> d. 55.    
+> e. 71.    
+
+---
+
+Também resolvemos juntos a seguinte questão:
+
+> ![Exercício](./grafico_linha_veiculo_imovel.jpg)
+>
+> a. 4.     
+> b. 3.     
+> c. 2.     
+> d. 1.     
+> e. 0.     
