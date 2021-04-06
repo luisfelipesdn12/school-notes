@@ -307,6 +307,8 @@ Revimos mais sobre operações, com propriedades distributivas, forças das oper
 ## Exercícios de gráficos
 > 06/04/2021
 
+> [Documento usado em aula](./Semana%205.2%20-%20Gráficos%20de%20Linha%20.pdf)
+
 Revisamos o conceito de gráficos, servindo para mostrar comparações, tendências, etc.
 
 ---
