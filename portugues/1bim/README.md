@@ -319,3 +319,9 @@ A professora está lendo dois livros:
 - [A Mulher de Pés Descalços](https://www.amazon.com.br/Mulher-P%C3%A9s-Descal%C3%A7os-Scholastique-Mukasonga/dp/856902018X)
 - [O racismo e o negro no Brasil: Questões para a psicanálise](https://www.amazon.com.br/Racismo-Negro-Brasil-Quest%C3%B5es-Psican%C3%A1lise/dp/8527311038)
 
+---
+
+## Exibição de livro "Arnaldo Antunes" e "O Real resiste"
+> 05/04/2021
+
+> [Link do clipe](https://www.youtube.com/watch?v=wx_Pd-rpEhc)
