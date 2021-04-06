@@ -264,7 +264,7 @@ _____
 
 ### Exercícios de Porcentagem
 
-Vimos as duas últimas questões do formulário (as de resposta aberta) e corrigimos detalhadamente com discussões sobre as diferentes abordagens.
+Vimos nas duas últimas questões do formulário (as de resposta aberta) e corrigimos detalhadamente com discussões sobre as diferentes abordagens.
 
 4. Sara trabalha em uma loja de sapatos e ganha uma comissão de 25% sobre o valor das vendas que faz. Seu salário fixo é de 2000 reais. Qual valor ela deve vender em sapatos para que seu rendimento total seja 250% do seu salário fixo?
 
@@ -279,7 +279,7 @@ Como 3000 com 25% de comissão é um quarto do total que ela precisa vender,
 precisa vender (3000 * 4), logo 12000
 ```
 
-5. Júlio ganhou 50 reais de sua tia. Ela disse que ele tinha que dividir com a irmã dele e também guardar um pouco para uma eventual emergência. Júlio decidiu dar metade do valor para sua irmã e depois guardou 10 reais do que ficou com ele. A irmã disse que isso não seria justo e que ele deveria fazer o contrário, primeiro guardar 10 reais e depois dividir o que sobrou com ela pela metade. O que você acha dessa história? A ordem das operações faz mesmo diferença? Na sua opinião, o que Júlio deveria fazer? Por que?
+5. Júlio ganhou 50 reais de sua tia. Ela disse que ele tinha que dividir com a irmã dele e também guardar um pouco para uma eventual emergência. Júlio decidiu dar metade do valor para sua irmã e depois guardou 10 reais do que ficou com ele. A irmã disse que isso não seria justo e que ele deveria fazer o contrário, primeiro guardar 10 reais e depois dividir o que sobrou com ela pela metade. O que você acha dessa história? A ordem das operações faz mesmo diferença? Na sua opinião, o que Júlio deveria fazer? Porquê?
 
 Nessa, existem diversas abordagens do que seria "justo", vimos e discutimos acerca.
 
@@ -287,10 +287,17 @@ Nessa, existem diversas abordagens do que seria "justo", vimos e discutimos acer
 
 ### Revisão de operações
 
-Demos uma pairada sobre conceitos "basicos" de ordem de oerações, operações inversas, uso de parênteses para a mudança de ordem, e outros conceitos do gênero.
+Demos uma pairada sobre conceitos "básicos" de ordem de operações, operações inversas, uso de parênteses para a mudança de ordem, e outros conceitos do gênero.
 
 ---
 ## Operações
 > 09/03/2021
 
 Revimos mais sobre operações, com propriedades distributivas, forças das operações, mudanças dos resultados em função da ordem, etc.
+
+---
+
+## Terminologia e Gráficos
+> 05/04/2021
+
+> [Documento usado em aula](./Semana%205.1%20-%20Operações%20e%20Gráficos.pdf)
