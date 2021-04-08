@@ -11,3 +11,9 @@ Algumas pessoas falaram do que responderam nas celebridades que escolhemos para 
 A professora nos contou a história da Malala. E nos pediu para que traduzíssemos o texto da página 13: "One child, onde teacher, one book and a pen can change the world".
 
 Fomos solicitados a responder toda às questões da página 13.
+
+## Texto para Interpretação: Malala
+> 08/04/2021
+
+Lemos o texto da página 14 do livro Circles II.
+Cada aluno lia um parágrafo (de "A" a "D"), depois disso, fizemos os exercícios 8 e 9.
