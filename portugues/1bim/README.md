@@ -325,3 +325,19 @@ A professora está lendo dois livros:
 > 05/04/2021
 
 > [Link do clipe](https://www.youtube.com/watch?v=wx_Pd-rpEhc)
+
+## Instruções para Avaliação
+> 08/04/2021
+
+A professora nos instruiu a fazer a Avaliação Diagnóstica de Entrada na sexta-feira (já que haverá reunião de professores) e após preencher o gabarito, enviá-lo por e-mail para ela.
+
+Ela nos passou o [PDF da prova](./Avaliação%202º%20Médio%20LP.pdf).
+
+## Biblioteca Sonora: Antigamente
+> 08/04/2021
+
+Ouvimos os texto de Drummond "Antigamente".
+
+[Link do vídeo](https://www.youtube.com/watch?v=FHfYonFzOlU)
+
+Esta obra nos mostra que as palavras é dependente do contexto no qual ela está sendo apresentada.
