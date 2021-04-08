@@ -79,3 +79,8 @@ O pensamento do liberalismo econômico restabeleceu as paixões egoístas e víc
 
 Antes de Marx: estudo de uma ideia sobre vários assuntos.
 Depois de Marx: o conceito de ideologia ficou voltado puramente para a política.
+
+## Vídeo sobre ética
+> 08/04/2021
+
+Vimos [este vídeo sobre ética](https://www.youtube.com/watch?v=S48AlTBDSVU).
