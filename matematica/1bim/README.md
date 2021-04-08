@@ -343,3 +343,8 @@ Também resolvemos juntos a seguinte questão:
 > c. 2.     
 > d. 1.     
 > e. 0.     
+
+## Mais exercícios de análise de gráficos
+> 07/04/2021
+
+> [Documento usado em aula](./Semana%205.Semana%205.3%20-%20Análise%20de%20Gráficos.pdf)
