@@ -35,7 +35,7 @@ O poema apresenta antítese e pessimismo ao pressupor que não existem boas mem�
 > Que já coberto foi de neve fria,
 > E em mim converte em choro o doce canto.
 >
->E, afora este mudar-se cada dia,
+> E, afora este mudar-se cada dia,
 > Outra mudança faz de mor espanto:
 > Que não se muda já como soía.
 
@@ -341,3 +341,66 @@ Ouvimos os texto de Drummond "Antigamente".
 [Link do vídeo](https://www.youtube.com/watch?v=FHfYonFzOlU)
 
 Esta obra nos mostra que as palavras é dependente do contexto no qual ela está sendo apresentada.
+
+---
+
+## Análise textual e empréstimo linguístico
+
+> 12/04/2021
+
+Após avisos gerais sobre as atividades passadas (Produção Textual e ADE), e comentários sobre o envio de e-mails, ouvimos a música ["Beija Eu"](https://www.youtube.com/watch?v=t9GYvTN4dcQ), interpetada por Marisa Monte e composta junto de Arnaldo Antunes e Arto Lindsay.
+
+```
+Seja eu,
+Seja eu,
+Deixa que eu seja eu.
+E aceita
+O que seja seu.
+Então deita e aceita eu.
+
+Molha eu,
+Seca eu,
+Deixa que eu seja o céu
+E receba
+O que seja seu.
+Anoiteça e amanheça eu.
+
+Beija eu,
+Beija eu,
+Beija eu, me beija.
+Deixa
+O que seja ser
+
+Então beba e receba
+Meu corpo no seu corpo,
+Eu no meu corpo.
+Deixa,
+Eu me deixo
+Anoiteça e amanheça
+```
+
+Por que causa estranhamento um "beija eu" _(pronome reto)_, com gramática mais características de linguagens africanas?
+
+Pois na norma culta, espera-se um "me beija" _(pronome oblíquo)_
+
+> associar com relações de poder das linguagens?
+
+O eu lírico busca mostrar uma paixão intensa
+
+Como a rima se expressa nesse texto?
+
+A rima do eu o reforça, e modifica o seu significado no texto  _(aliteração)_
+
+---
+
+Passamos então para um texto da Fuvest:
+
+![Questao Fuvest](./fuvestprivacidade.png)
+
+Discutimos sobre o texto: ele busca alertar as pessoas, e chamar atenção para a privacidade que pode estar em riscos ao fazer uso das redes sociais de forma descuidada.
+
+Fomos alertados à respeito do uso das redes, e então nos foi lida a seguinte definição, segundo o Dicionário Houaiss, do verbete 'privacidade':
+
+> 'privacidade': Trata-se de uma palavra inglesa, de emprestimo recente na lingua, sugerindo-se no seu lugar o uso de: [...].
+
+Buscamos incorporar vocábulos de outras línguas, mesmo quando não há necessidade. Se dá como herança da nossa atitude na linguagem oral: como brasileiros, é comum de nossa cultura que recepcionemos estrangeiros com grande primor, como se devido à meramente sua excelência como estrangeiros. 
