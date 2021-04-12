@@ -344,7 +344,24 @@ Também resolvemos juntos a seguinte questão:
 > d. 1.     
 > e. 0.     
 
+---
+
 ## Mais exercícios de análise de gráficos
 > 07/04/2021
 
 > [Documento usado em aula](./Semana%205.Semana%205.3%20-%20Análise%20de%20Gráficos.pdf)
+
+---
+
+## Finalização da retomada de Gráficos e Correção da ADE
+> 12/04/2021
+
+Vimos sobre Plano Cartesiano e a leitura de suas Coordenadas:
+
+> ![Plano Cartesiano e Coordenadas](./PlanoCartesiano_Coordenadas)
+
+---
+
+Correção da Avaliação Diagnóstica de Entrada (ADE):
+
+Ex. 14:
