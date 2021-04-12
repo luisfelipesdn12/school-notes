@@ -356,9 +356,11 @@ Também resolvemos juntos a seguinte questão:
 ## Finalização da retomada de Gráficos e Correção da ADE
 > 12/04/2021
 
+> [Documento usado em aula](./Semana%206.1%20-%20Plano%20Cartesiano.pdf)
+
 Vimos sobre Plano Cartesiano e a leitura de suas Coordenadas:
 
-> ![Plano Cartesiano e Coordenadas](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fconhecimentocientifico.r7.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fplano-cartesiano-o-que-e-como-fazer-caracteristicas-e-coordenadas.png&f=1&nofb=1)
+> ![Plano Cartesiano e Coordenadas](./plano_cartesiano_coordenadas.png)
 
 ---
 
