@@ -90,3 +90,11 @@ C = 80g / 0,5L
 C = 160g/L
 C = 160 gramas por litro
 ```
+
+---
+
+## MOL
+
+> 12.04.2021
+
+Assistimos a um [vídeo do repositório do CMSP](http://acervocmsp.educacao.sp.gov.br/8438/117831.mp4) a então partimos para _fazer um calculo que eu to com sono demais para acompanhar_ 
