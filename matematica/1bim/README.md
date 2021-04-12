@@ -358,7 +358,7 @@ Também resolvemos juntos a seguinte questão:
 
 Vimos sobre Plano Cartesiano e a leitura de suas Coordenadas:
 
-> ![Plano Cartesiano e Coordenadas](./PlanoCartesiano_Coordenadas)
+> ![Plano Cartesiano e Coordenadas](./aaaaaadicionarIMG.png)
 
 ---
 

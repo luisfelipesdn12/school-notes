@@ -1,6 +1,6 @@
-# PortuguĂŞs - 1Âş Bimestre
+# Português - 1º Bimestre
 
-## LuĂ­s Vaz de CamĂľes
+## Luís Vaz de Camões
 > 01/03/2021
 
 
@@ -10,186 +10,186 @@
   - pequena nobreza.
 - A arte era muito valorizada pelos reis.
   - Se ele escrevesse um livro, seria custeado pelo governo.
-- LuĂ­s se apaixonou por uma mulher.
-  - Teria escrito LusĂ­adas numa embarcaĂ§ĂŁo (com a mulher).
+- Luís se apaixonou por uma mulher.
+  - Teria escrito Lusíadas numa embarcação (com a mulher).
   - Teria escolhido o livro em vez dela (deixado-a morrer).
 - Um dos principais representantes da literatura classicista.
 
 ### Poema: Mudam-se os tempos, mudam-se as vontades:
 
-A grande paixĂŁo dos homens gregos era por outros homens. Muitos se relacionavam com mulheres apenas por reproduĂ§ĂŁo.
-Esse ĂŠ um exemplo de "mudam-se os tempos, mudam-se as vontades".
+A grande paixão dos homens gregos era por outros homens. Muitos se relacionavam com mulheres apenas por reprodução.
+Esse é um exemplo de "mudam-se os tempos, mudam-se as vontades".
 
-> Muda-se o ser, muda-se a confianĂ§a;
-> Todo o mundo ĂŠ composto de mudanĂ§a,
+> Muda-se o ser, muda-se a confiança;
+> Todo o mundo é composto de mudança,
 > Tomando sempre novas qualidades.
 >
 > Continuamente vemos novidades,
-> Diferentes em tudo da esperanĂ§a;
-> Do mal ficam as mĂĄgoas na lembranĂ§a,
+> Diferentes em tudo da esperança;
+> Do mal ficam as mágoas na lembrança,
 > E do bem, se algum houve, as saudades.
 
-O poema apresenta antĂ­tese e pessimismo ao pressupor que nĂŁo existem boas memĂłrias (ideias opostas).
+O poema apresenta antítese e pessimismo ao pressupor que não existem boas memórias (ideias opostas).
 
-> O tempo cobre o chĂŁo de verde manto,
-> Que jĂĄ coberto foi de neve fria,
+> O tempo cobre o chão de verde manto,
+> Que já coberto foi de neve fria,
 > E em mim converte em choro o doce canto.
 >
->E, afora este mudar-se cada dia,
-> Outra mudanĂ§a faz de mor espanto:
-> Que nĂŁo se muda jĂĄ como soĂ­a.
+> E, afora este mudar-se cada dia,
+> Outra mudança faz de mor espanto:
+> Que não se muda já como soía.
 
 Ideia de desconserto do mundo.
 
-> â LuĂ­s de CamĂľes CamĂľes, L. V. de. 200 Sonetos. Porto Alegre: L&PM. 1998.
+> — Luís de Camões Camões, L. V. de. 200 Sonetos. Porto Alegre: L&PM. 1998.
 
-Texto construĂ­do com pronomes indefinidos ("alguns"), trĂĄs uma ideia de incerteza e distanciamento.
-## CoesĂŁo e CoerĂŞncia
+Texto construído com pronomes indefinidos ("alguns"), trás uma ideia de incerteza e distanciamento.
+## Coesão e Coerência
 > 02/03/2021
 
-Um bom texto ĂŠ aquele em que o leitor ĂŠ conduzido Ă  compreensĂŁo imediata, exceto em casos em que hĂĄ um pĂşblico alvo muito especĂ­fico.
+Um bom texto é aquele em que o leitor é conduzido à compreensão imediata, exceto em casos em que há um público alvo muito específico.
 
-### CoesĂŁo textual:
+### Coesão textual:
 
-SĂŁo as conexĂľes gramaticais responsĂĄveis pela articulaĂ§ĂŁo de palavras, produz o sentido.
+São as conexões gramaticais responsáveis pela articulação de palavras, produz o sentido.
 
-#### Por remissĂŁo:
+#### Por remissão:
 
-Os pronomes estabelecem relaĂ§Ăľes remissivas sem que se faĂ§a repetiĂ§ĂŁo de termos.
+Os pronomes estabelecem relações remissivas sem que se faça repetição de termos.
 
-> O psiquiatra americano Allen Frances acha que **usamos remĂŠdios demais**, e para tratar gente que passaria bem sem **eles**.
+> O psiquiatra americano Allen Frances acha que **usamos remédios demais**, e para tratar gente que passaria bem sem **eles**.
 
-#### Por repetiĂ§ĂŁo/reiteraĂ§ĂŁo:
+#### Por repetição/reiteração:
 
-DĂĄ sentido de ĂŞnfase.
+Dá sentido de ênfase.
 
-> Cada um ĂŠ responsĂĄvel por todos. Cada um ĂŠ o Ăşnico responsĂĄvel. Cada um ĂŠ o Ăşnico responsĂĄvel por todos.
+> Cada um é responsável por todos. Cada um é o único responsável. Cada um é o único responsável por todos.
 
-> â Antoine de Saint-ExupĂŠry
+> — Antoine de Saint-Exupéry
 
-#### Por substituiĂ§ĂŁo:
+#### Por substituição:
 
-Um elemento ĂŠ substituĂ­do por um sinĂ´nimo sem prejudicar o sentido da ideia.
+Um elemento é substituído por um sinônimo sem prejudicar o sentido da ideia.
 
-> ĂPOCA â As pessoas se sentem melhor ao tomar essas **pĂ­lulas**, mesmo sem precisar delas?
+> ÉPOCA – As pessoas se sentem melhor ao tomar essas **pílulas**, mesmo sem precisar delas?
 >
-> Frances â As pesquisas mostram que a resposta dessas pessoas aos **remĂŠdios** nĂŁo ĂŠ muito maior do que a resposta a um placebo.
+> Frances – As pesquisas mostram que a resposta dessas pessoas aos **remédios** não é muito maior do que a resposta a um placebo.
 
 > Entrevista completa: https://epoca.globo.com/vida/noticia/2016/09/receitamos-remedios-psiquiatricos-gente-saudavel-diz-medico-allen-frances.html
 
 #### Por contiguidade:
 
-Estabelece uma unidade de discurso apresentando elementos de um mesmo campo semĂ˘ntico.
+Estabelece uma unidade de discurso apresentando elementos de um mesmo campo semântico.
 
-> Frances â [...] Quando as taxas de desemprego aumentam, as taxas de depressĂŁo aumentam tambĂŠm. Melhor do que receitar **antidepressivos** para as pessoas seria garantir-hes melhor apoio social, para ajudĂĄ-las durante o tempo em que estiverem desempregadas
+> Frances – [...] Quando as taxas de desemprego aumentam, as taxas de depressão aumentam também. Melhor do que receitar **antidepressivos** para as pessoas seria garantir-hes melhor apoio social, para ajudá-las durante o tempo em que estiverem desempregadas
 
-### CoerĂŞncia textual
+### Coerência textual
 
-ConexĂľes lĂłgico-semĂ˘nticas faz o texto ter um significado por completo. VĂŞm do desenvolvimento de ideias, seleĂ§ĂŁo do vocabulĂĄrio, suporte, etc.
+Conexões lógico-semânticas faz o texto ter um significado por completo. Vêm do desenvolvimento de ideias, seleção do vocabulário, suporte, etc.
 
-### ReflexĂŁo
+### Reflexão
 
-#### Tema da redaĂ§ĂŁo da Fuvest 2021:
-O mundo contemporĂ˘neo estĂĄ fora de ordem?
+#### Tema da redação da Fuvest 2021:
+O mundo contemporâneo está fora de ordem?
 
 ##### Texto 1
 
-> O neoliberalismo define certa norma de vida nas sociedades ocidentais, e, para alĂŠm dela, em todas as sociedades que as seguem no caminho da âmodernidadeâ. Essa norma impĂľe a cada um de nĂłs que vivamos num universo de competiĂ§ĂŁo generalizada, intima os assalariados e as populaĂ§Ăľes a entrar em luta econĂ´mica uns contra os outros, ordena as relaĂ§Ăľes sociais segundo o modelo do mercado, obriga a justificar desigualdades cada vez mais profundas, muda atĂŠ o indivĂ­duo, que ĂŠ instado a conceber a si mesmo e a comportar-se como uma empresa.
+> O neoliberalismo define certa norma de vida nas sociedades ocidentais, e, para além dela, em todas as sociedades que as seguem no caminho da “modernidade”. Essa norma impõe a cada um de nós que vivamos num universo de competição generalizada, intima os assalariados e as populações a entrar em luta econômica uns contra os outros, ordena as relações sociais segundo o modelo do mercado, obriga a justificar desigualdades cada vez mais profundas, muda até o indivíduo, que é instado a conceber a si mesmo e a comportar-se como uma empresa.
 
-> Pierre Dardot e Christian Laval. A nova razĂŁo do mundo: ensaio sobre a sociedade neoliberal, 2016.
+> Pierre Dardot e Christian Laval. A nova razão do mundo: ensaio sobre a sociedade neoliberal, 2016.
 
-Discutimos em aula que este ĂŠ um texto crĂ­tico, no sentido em que contra-argumenta uma ideologia polĂ­tica.
-(Iniciou-se uma pequena discussĂŁo no chat :V)
+Discutimos em aula que este é um texto crítico, no sentido em que contra-argumenta uma ideologia política.
+(Iniciou-se uma pequena discussão no chat :V)
 
 ##### Texto 2
 
-> As mais soberbas pontes e edifĂ­cios,
+> As mais soberbas pontes e edifícios,
 > o que nas oficinas se elabora,
 > o que pensado foi e logo atinge
 >
-> distĂ˘ncia superior ao pensamento,
+> distância superior ao pensamento,
 > os recursos da terra dominados,
-> e as paixĂľes e os impulsos e os tormentos
+> e as paixões e os impulsos e os tormentos
 >
 > e tudo que define o ser terrestre
-> ou se prolonga atĂŠ nos animais
-> e chega Ă s plantas para se embeber
+> ou se prolonga até nos animais
+> e chega às plantas para se embeber
 >
-> no sono rancoroso dos minĂŠrios,
-> dĂĄ volta ao mundo e torna a se engolfar
-> na estranha ordem geomĂŠtrica de tudo,
+> no sono rancoroso dos minérios,
+> dá volta ao mundo e torna a se engolfar
+> na estranha ordem geométrica de tudo,
 >
-> (âŚ)
+> (…)
 
-> Carlos Drummond de Andrade, âA mĂĄquina do mundoâ, de Claro Enigma, 1951.
+> Carlos Drummond de Andrade, “A máquina do mundo”, de Claro Enigma, 1951.
 
-O contexto ĂŠ a desilusĂŁo do mundo num pĂłs-guerra.
+O contexto é a desilusão do mundo num pós-guerra.
 
 ##### Texto 3
 
-> Aqui tudo parece que era ainda construĂ§ĂŁo e jĂĄ ĂŠ ruĂ­na
-> Tudo ĂŠ menino, menina no olho da rua
+> Aqui tudo parece que era ainda construção e já é ruína
+> Tudo é menino, menina no olho da rua
 > O asfalto, a ponte, o viaduto ganindo pra lua
-> Nada continuaâŚ
-> (âŚ)
-> Alguma coisa estĂĄ fora da ordem
+> Nada continua…
+> (…)
+> Alguma coisa está fora da ordem
 > Fora da nova ordem mundial
 
-> â Caetano Veloso. Trecho da mĂşsica Fora da Ordem, 1991.
+> — Caetano Veloso. Trecho da música Fora da Ordem, 1991.
 
-Tivemos acesso Ă  [musica no YouTube](https://www.youtube.com/watch?v=HUb-z8C3CBs) na Ă­ntegra.
+Tivemos acesso à [musica no YouTube](https://www.youtube.com/watch?v=HUb-z8C3CBs) na íntegra.
 
 ##### Texto 4
 > ![Quadrinho mafalda](./mafalda_assim_vai_o_mundo.jpg)
 
 > Quino, Mafalda. Assim vai o mundo!
 
-Foi discutida a linguagem nĂŁo verbal e o significado desta tira.
+Foi discutida a linguagem não verbal e o significado desta tira.
 
 ##### Texto 5
-> Os adultos ficam dizendo: âdevemos dar esperanĂ§a aos jovensâ. Mas eu nĂŁo quero a sua esperanĂ§a. Eu nĂŁo quero que vocĂŞs estejam esperanĂ§osos. Eu quero que vocĂŞs estejam em pĂ˘nico. Quero que vocĂŞs sintam o medo que eu sinto todos os dias. E eu quero que vocĂŞs ajam. Quero que ajam como agiriam em uma crise. Quero que vocĂŞs ajam como se a casa estivesse pegando fogo, porque estĂĄ.
+> Os adultos ficam dizendo: “devemos dar esperança aos jovens”. Mas eu não quero a sua esperança. Eu não quero que vocês estejam esperançosos. Eu quero que vocês estejam em pânico. Quero que vocês sintam o medo que eu sinto todos os dias. E eu quero que vocês ajam. Quero que ajam como agiriam em uma crise. Quero que vocês ajam como se a casa estivesse pegando fogo, porque está.
 
 > Greta Thunberg, Trecho de discurso em Davos, 2019.
 
 Foi mostrado [outro discurso](https://www.youtube.com/watch?v=mbnRv81s_9Q) da Gretta no YouTube.
 
 #### Atividade
-Considerando as ideias apresentadas nos textos e tambĂŠm outras informaĂ§Ăľes que julgar pertinentes, redija uma dissertaĂ§ĂŁo em prosa, na qual vocĂŞ exponha o seu ponto de vista sobre o tema: **O mundo contemporĂ˘neo estĂĄ fora da ordem?**
+Considerando as ideias apresentadas nos textos e também outras informações que julgar pertinentes, redija uma dissertação em prosa, na qual você exponha o seu ponto de vista sobre o tema: **O mundo contemporâneo está fora da ordem?**
 
-##### InstruĂ§Ăľes:
+##### Instruções:
 > Da Fuvest:
-- A dissertaĂ§ĂŁo deve ser redigida de acordo com a norma culta padrĂŁo da lĂ­ngua portuguesa.
-- Escreva, no mĂ­nimo, 20 linhas, com letra legĂ­vel e nĂŁo ultrapasse o espaĂ§o de 30 linhas da folha de redaĂ§ĂŁo.
-- DĂŞ um tĂ­tulo a sua redaĂ§ĂŁo.
+- A dissertação deve ser redigida de acordo com a norma culta padrão da língua portuguesa.
+- Escreva, no mínimo, 20 linhas, com letra legível e não ultrapasse o espaço de 30 linhas da folha de redação.
+- Dê um título a sua redação.
 
 > Da professora:
-- PreferĂŞncia por arquivo feito no WORD (.docx).
+- Preferência por arquivo feito no WORD (.docx).
 - No email flavalery@yahoo.com ou Google Drive.
-- Lembrar de dar um tĂ­tulo.
-- Lembrar de fazer uma conclusĂŁo.
-- AtĂŠ sexta-feira (05/03/2021 Ă s 23h59m).
+- Lembrar de dar um título.
+- Lembrar de fazer uma conclusão.
+- Até sexta-feira (05/03/2021 às 23h59m).
 
 ## Debate de obras
 > 04/03/2021
 
-Fomos introduzidos ao livro "Ensaio Sobre a Cegueira", de JosĂŠ Saramago, e iniciamos um debate acerca da intertextualidade entre as trĂŞs seguintes obras:
+Fomos introduzidos ao livro "Ensaio Sobre a Cegueira", de José Saramago, e iniciamos um debate acerca da intertextualidade entre as três seguintes obras:
 
-- [Uma sabatina com o autor JosĂŠ Saramago](https://www.youtube.com/watch?v=BOLhNxBo6Xo).
+- [Uma sabatina com o autor José Saramago](https://www.youtube.com/watch?v=BOLhNxBo6Xo).
 
-- [Trailer da adaptaĂ§ĂŁo cinematogrĂĄfica do livro "Ensaio Sobre a Cegueira"](https://www.youtube.com/watch?v=o4Fyw01Qokw).
+- [Trailer da adaptação cinematográfica do livro "Ensaio Sobre a Cegueira"](https://www.youtube.com/watch?v=o4Fyw01Qokw).
 
-- [Clipe da mĂşsica "Ă tudo pra ontem", do Emicida](https://www.youtube.com/watch?v=qbQC60p5eZk).
+- [Clipe da música "É tudo pra ontem", do Emicida](https://www.youtube.com/watch?v=qbQC60p5eZk).
 
-Discutimos as relaĂ§Ăľes entre as obras e as crĂ­ticas acerca delas.
+Discutimos as relações entre as obras e as críticas acerca delas.
 
-Discutimos os seguintes tĂłpicos relacionados com as obras acima:
+Discutimos os seguintes tópicos relacionados com as obras acima:
 
-- "Partir, voltar e repartir". Essa sequĂŞncia se repete diversas vezes ao longo da mĂşsica.
-- A sequĂŞncia apresenta certa ambiguiade quando percebemos que "partir" e "repartir" possuem mais de um sentido. Essa caracterĂ­stica da mĂşsica se perde quando traduzida para outra lĂ­nguas.
-- No clipe da mĂşsica, o conto narrado por Gilberto Gil sobre a humanidade nos mostra que mesmo tendo falhas, ainda temos caracterĂ­sticas positivas.
-- "E se fossemos todos cegos?" Esse foi o questionamento de Saramago que originou o livro "Ensaio Sobre a Cegueira". Ele chegou Ă  conclusĂŁo de que, de certa forma, jĂĄ somos todos cegos.
-- Ao assistir ao trailer do filme e extrair mais informaĂ§Ăľes sobre a obra, concluĂ­mos que a real visĂŁo ĂŠ adquirida.
-- O fato da cegueira retratada ser branca mostra um aspecto importante da obra. Isso porque, quando questionado sobre a cor da cegueira, fez questĂŁo de enfatizar que ela era branca, indo contra o pensamento de outros que alegavam que a cegueira ĂŠ negra.
+- "Partir, voltar e repartir". Essa sequência se repete diversas vezes ao longo da música.
+- A sequência apresenta certa ambiguiade quando percebemos que "partir" e "repartir" possuem mais de um sentido. Essa característica da música se perde quando traduzida para outra línguas.
+- No clipe da música, o conto narrado por Gilberto Gil sobre a humanidade nos mostra que mesmo tendo falhas, ainda temos características positivas.
+- "E se fossemos todos cegos?" Esse foi o questionamento de Saramago que originou o livro "Ensaio Sobre a Cegueira". Ele chegou à conclusão de que, de certa forma, já somos todos cegos.
+- Ao assistir ao trailer do filme e extrair mais informações sobre a obra, concluímos que a real visão é adquirida.
+- O fato da cegueira retratada ser branca mostra um aspecto importante da obra. Isso porque, quando questionado sobre a cor da cegueira, fez questão de enfatizar que ela era branca, indo contra o pensamento de outros que alegavam que a cegueira é negra.
 
 ## Vida Maria: Debate
 > 05/03/2021 (Aula 1)
@@ -201,150 +201,150 @@ Foi-nos apresentado o curta "Vida Maria' e debatemos acerca da obra.
 ## Sementes: Debate
 > 05/03/2021 (Aula 2)
 
-Vimos o clipe da mĂşsica "Sementes" do Emicida.
+Vimos o clipe da música "Sementes" do Emicida.
 
 > Link do filme: https://www.youtube.com/watch?v=C7l0AB--I3c
 
-## ProduĂ§ĂŁo de Texto: Debate
+## Produção de Texto: Debate
 > 08/03/2021
 
-Debate ĂŠ considerado produĂ§ĂŁo de texto, seja escrito ou nĂŁo.
+Debate é considerado produção de texto, seja escrito ou não.
 
-### Sobre o gĂŞnero:
-- GĂŞnero oral;
+### Sobre o gênero:
+- Gênero oral;
 - Linguagem argumentativa;
 - Defender uma ideia ou ponto de vista;
-- Temas polĂŞmicos;
+- Temas polêmicos;
 - Os argumentos servem para confirmar ou negar um posicionamento;
 
-### Debates pĂşblicos regrados
+### Debates públicos regrados
 - Geralmente usado em salas de aula;
 - Os alunos podem desenvolver os seus conhecimentos e ampliar seu ponto de vista acerca de determinado assunto;
 - Cada participante deve expressar a sua perspectiva sobre um tema, sempre apresentando argumentos coerentes;
-- Cada debatedor deve trazer conhecimentos ao debate, contribuindo Ă  compreensĂŁo do tema e uma visĂŁo ampla;
-- NĂŁo existe um "vencedor";
+- Cada debatedor deve trazer conhecimentos ao debate, contribuindo à compreensão do tema e uma visão ampla;
+- Não existe um "vencedor";
 - Existe um moderador;
 
 ### O papel do moderador
-- Regula a interaĂ§ĂŁo;
+- Regula a interação;
 - Organiza os turnos de fala;
 - Apresentar os participantes;
 - Arbitrar e administrar os conflitos;
-- Conciliar as posiĂ§Ăľes, sem tomar partido de ninguĂŠm, transparecer imparcialidade;
-- Retomar o foco da discussĂŁo;
+- Conciliar as posições, sem tomar partido de ninguém, transparecer imparcialidade;
+- Retomar o foco da discussão;
 - Encerrar o debate;
 
-### EstratĂŠgias argumentativas
+### Estratégias argumentativas
 
-#### ArgumentaĂ§ĂŁo
-Consiste na exposiĂ§ĂŁo de argumentos com o objetivo de convencer e persuadir.
+#### Argumentação
+Consiste na exposição de argumentos com o objetivo de convencer e persuadir.
 
-#### Por raciocĂ­nio lĂłgico
-Consiste na criaĂ§ĂŁo de nexos causais que sustentam o raciocĂ­nio defendido. Com encadeamento de ideis conexas e loĂłgicas.
+#### Por raciocínio lógico
+Consiste na criação de nexos causais que sustentam o raciocínio defendido. Com encadeamento de ideis conexas e loógicas.
 
-> đ Nexos causais: relaĂ§Ăľes de causa e efeito.
+> 📝 Nexos causais: relações de causa e efeito.
 
-#### Por comprovaĂ§ĂŁo
-Consiste na exposiĂ§ĂŁo de informaĂ§Ăľes objetivas, com dados numĂŠricos, percentuais e estatĂ­sticas.
+#### Por comprovação
+Consiste na exposição de informações objetivas, com dados numéricos, percentuais e estatísticas.
 
-#### Por citaĂ§ĂŁo
-Consiste na referĂŞncia ao ponto de vista em pessoas consideradas autoridades em determinados assuntos.
+#### Por citação
+Consiste na referência ao ponto de vista em pessoas consideradas autoridades em determinados assuntos.
 
-#### Contra-argumentaĂ§ĂŁo
-Consiste em prever e antecipar os argumentos contrĂĄrios Ă s prĂłprias ideias e posiĂ§Ăľes defendidas. RefutaĂ§Ăľes.
+#### Contra-argumentação
+Consiste em prever e antecipar os argumentos contrários às próprias ideias e posições defendidas. Refutações.
 
-#### DimensĂľes da oralidade no debate
-A presenĂ§a de marcas de oralidade em um debate depende do nĂ­vel de informalidade que ele apresenta.
+#### Dimensões da oralidade no debate
+A presença de marcas de oralidade em um debate depende do nível de informalidade que ele apresenta.
 
-#### Perguntas retĂłricas
-Perguntas respondidas pelo prĂłprio autor, a fim de desestabilizar o adversĂĄrio e causar reflexĂŁo dos espectadores.
+#### Perguntas retóricas
+Perguntas respondidas pelo próprio autor, a fim de desestabilizar o adversário e causar reflexão dos espectadores.
 
 ---
 
 ### Considerar sempre:
-- Deve se utilizar a variedade culta da lĂ­ngua.
-- Evitar gĂ­rias e palavra de baixo calĂŁo e marcas de oralidade ("nĂŠ", "daĂ­", etc.)
-- Planejar a participaĂ§ĂŁo, o tom de voz adequado, as palavras adequadas, com fim de contribuir para atenĂ§ĂŁo e compreensĂŁo da plateia.
-- O debatedor e o mediador deve estar atento Ă  reaĂ§ĂŁo dos espectadores para ajustar a dinĂ˘mica do debate.
+- Deve se utilizar a variedade culta da língua.
+- Evitar gírias e palavra de baixo calão e marcas de oralidade ("né", "daí", etc.)
+- Planejar a participação, o tom de voz adequado, as palavras adequadas, com fim de contribuir para atenção e compreensão da plateia.
+- O debatedor e o mediador deve estar atento à reação dos espectadores para ajustar a dinâmica do debate.
 
 ---
 
-## Um Boi vĂŞ os Homens
+## Um Boi vê os Homens
 > 11/03/2021
 
-Foi-nos apresentado um certo contexto e depois o texto "Um Boi vĂŞ os Homens" de Carlos Drummond de Andrade.
-> PDF: [Um boi vĂŞ os homens [Claro enigma]](./UM-BOI-VE-OS-HOMENS.pdf)
+Foi-nos apresentado um certo contexto e depois o texto "Um Boi vê os Homens" de Carlos Drummond de Andrade.
+> PDF: [Um boi vê os homens [Claro enigma]](./UM-BOI-VE-OS-HOMENS.pdf)
 
-TĂŁo delicados (mais que um arbusto) e correm    
+Tão delicados (mais que um arbusto) e correm    
 e correm de um para outro lado, sempre esquecidos    
 de alguma coisa. Certamente, falta-lhes    
-nĂŁo sei que atributo essencial, posto se apresentem nobres    
+não sei que atributo essencial, posto se apresentem nobres    
 e graves, por vezes. Ah, espantosamente graves,    
-> Discutimos a relaĂ§ĂŁo com o mundo modernos, onde hĂĄ
-> pressa sem objetivo, principalmente em metrĂłpoles.
-> AlĂŠm de uma certa arrogĂ˘ncia.
+> Discutimos a relação com o mundo modernos, onde há
+> pressa sem objetivo, principalmente em metrópoles.
+> Além de uma certa arrogância.
 
-atĂŠ sinistros. Coitados, dir-se-ia nĂŁo escutam    
+até sinistros. Coitados, dir-se-ia não escutam    
 nem o canto do ar nem os segredos do feno,    
-como tambĂŠm parecem nĂŁo enxergar o que ĂŠ visĂ­vel    
-e comum a cada um de nĂłs, no espaĂ§o. E ficam tristes    
-> Vimos que "o que ĂŠ comum a cada um de nĂłs" seria
+como também parecem não enxergar o que é visível    
+e comum a cada um de nós, no espaço. E ficam tristes    
+> Vimos que "o que é comum a cada um de nós" seria
 > a mortalidade.
 
-e no rasto da tristeza chegam Ă  crueldade.    
+e no rasto da tristeza chegam à crueldade.    
 > A ideia de crueldade: os seres que seriam
-> sĂŁo mais racionais, sĂŁo os mais cruĂŠis.
+> são mais racionais, são os mais cruéis.
 > Na natureza, se mata por instinto ou por
-> sobrevivĂŞncia. O ser humano, mata por prazer.
+> sobrevivência. O ser humano, mata por prazer.
 
-Toda a expressĂŁo deles mora nos olhos â e perde-se    
-a um simples baixar de cĂ­lios, a uma sombra.    
-Nada nos pelos, nos extremos de inconcebĂ­vel fragilidade,    
-e como neles hĂĄ pouca montanha,    
-e que secura e que reentrĂ˘ncias e que
+Toda a expressão deles mora nos olhos — e perde-se    
+a um simples baixar de cílios, a uma sombra.    
+Nada nos pelos, nos extremos de inconcebível fragilidade,    
+e como neles há pouca montanha,    
+e que secura e que reentrâncias e que
 impossibilidade de se organizarem em formas calmas,    
-permanentes e necessĂĄrias. TĂŞm, talvez,    
-certa graĂ§a melancĂłlica (um minuto) e com isto se fazem    
-perdoar a agitaĂ§ĂŁo incĂ´moda e o translĂşcido    
-vazio interior que os torna tĂŁo pobres e carecidos    
-de emitir sons absurdos e agĂ´nicos: desejo, amor, ciĂşme    
-(que sabemos nĂłs?), sons que se despedaĂ§am e tombam no campo    
-como pedras aflitas e queimam a erva e a ĂĄgua,    
-e difĂ­cil, depois disto, ĂŠ ruminarmos nossa verdade.    
+permanentes e necessárias. Têm, talvez,    
+certa graça melancólica (um minuto) e com isto se fazem    
+perdoar a agitação incômoda e o translúcido    
+vazio interior que os torna tão pobres e carecidos    
+de emitir sons absurdos e agônicos: desejo, amor, ciúme    
+(que sabemos nós?), sons que se despedaçam e tombam no campo    
+como pedras aflitas e queimam a erva e a água,    
+e difícil, depois disto, é ruminarmos nossa verdade.    
 
 ---
 
-A professora estĂĄ lendo dois livros:
+A professora está lendo dois livros:
 
-- [A Mulher de PĂŠs DescalĂ§os](https://www.amazon.com.br/Mulher-P%C3%A9s-Descal%C3%A7os-Scholastique-Mukasonga/dp/856902018X)
-- [O racismo e o negro no Brasil: QuestĂľes para a psicanĂĄlise](https://www.amazon.com.br/Racismo-Negro-Brasil-Quest%C3%B5es-Psican%C3%A1lise/dp/8527311038)
+- [A Mulher de Pés Descalços](https://www.amazon.com.br/Mulher-P%C3%A9s-Descal%C3%A7os-Scholastique-Mukasonga/dp/856902018X)
+- [O racismo e o negro no Brasil: Questões para a psicanálise](https://www.amazon.com.br/Racismo-Negro-Brasil-Quest%C3%B5es-Psican%C3%A1lise/dp/8527311038)
 
 ---
 
-## ExibiĂ§ĂŁo de livro "Arnaldo Antunes" e "O Real resiste"
+## Exibição de livro "Arnaldo Antunes" e "O Real resiste"
 > 05/04/2021
 
 > [Link do clipe](https://www.youtube.com/watch?v=wx_Pd-rpEhc)
 
-## InstruĂ§Ăľes para AvaliaĂ§ĂŁo
+## Instruções para Avaliação
 > 08/04/2021
 
-A professora nos instruiu a fazer a AvaliaĂ§ĂŁo DiagnĂłstica de Entrada na sexta-feira (jĂĄ que haverĂĄ reuniĂŁo de professores) e apĂłs preencher o gabarito, enviĂĄ-lo por e-mail para ela.
+A professora nos instruiu a fazer a Avaliação Diagnóstica de Entrada na sexta-feira (já que haverá reunião de professores) e após preencher o gabarito, enviá-lo por e-mail para ela.
 
-Ela nos passou o [PDF da prova](./AvaliacĚ§aĚo%202Âş%20MeĚdio%20LP.pdf).
+Ela nos passou o [PDF da prova](./Avaliação%202º%20Médio%20LP.pdf).
 
 ## Biblioteca Sonora: Antigamente
 > 08/04/2021
 
 Ouvimos os texto de Drummond "Antigamente".
 
-[Link do vĂ­deo](https://www.youtube.com/watch?v=FHfYonFzOlU)
+[Link do vídeo](https://www.youtube.com/watch?v=FHfYonFzOlU)
 
-Esta obra nos mostra que as palavras ĂŠ dependente do contexto no qual ela estĂĄ sendo apresentada.
+Esta obra nos mostra que as palavras é dependente do contexto no qual ela está sendo apresentada.
 
 ---
 
-## Análise textual e
+## Análise textual e empréstimo linguístico
 
 > 12/04/2021
 
@@ -395,12 +395,12 @@ A rima do eu o reforça, e modifica o seu significado no texto  _(aliteração)_
 
 Passamos então para um texto da Fuvest:
 
-![Questao Fuvest](/home/gomiya/.config/Typora/typora-user-images/image-20210412084928117.png)
+![Questao Fuvest](./fuvestprivacidade.png)
 
 Discutimos sobre o texto: ele busca alertar as pessoas, e chamar atenção para a privacidade que pode estar em riscos ao fazer uso das redes sociais de forma descuidada.
 
 Fomos alertados à respeito do uso das redes, e então nos foi lida a seguinte definição, segundo o Dicionário Houaiss, do verbete 'privacidade':
 
-> 'privacidade': Trata-se de uma palavra inglesa, de emprestimo recente na lingua, sugerindo-se no seu lugar o uso de: [...] 
+> 'privacidade': Trata-se de uma palavra inglesa, de emprestimo recente na lingua, sugerindo-se no seu lugar o uso de: [...].
 
 Buscamos incorporar vocábulos de outras línguas, mesmo quando não há necessidade. Se dá como herança da nossa atitude na linguagem oral: como brasileiros, é comum de nossa cultura que recepcionemos estrangeiros com grande primor, como se devido à meramente sua excelência como estrangeiros. 
