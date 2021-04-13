@@ -374,6 +374,8 @@ Ex. 14:
 
 > 13/04/2021
 
+> [Documento usado em aula](./Semana%206.2%20-%20Conjuntos%20Numéricos%20e%20Quadrados.pdf)
+
 ### Potências quadradas
 
 Qual é a área de um quadrado de lado 4?

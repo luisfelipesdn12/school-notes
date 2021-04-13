@@ -36,6 +36,8 @@ Ex. 10:
 2014: Malala became the youngest person to win a Nobel Peace Prize.
 ```
 
+![Malala's timeline](./malala-timeline.png)
+
 Ex. 11:
 
 ```
