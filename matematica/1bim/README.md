@@ -367,3 +367,152 @@ Vimos sobre Plano Cartesiano e a leitura de suas Coordenadas:
 Correção da Avaliação Diagnóstica de Entrada (ADE):
 
 Ex. 14:
+
+---
+
+## Potências, raízes e conjuntos numéricos
+
+> 13/04/2021
+
+### Potências quadradas
+
+Qual é a área de um quadrado de lado 4?
+
+```
+Um quadrado de lado 4 é: 4 por 4.
+
+Ou seja 4*4, ou 4^4 (4 elevado à 4).
+
+4 vezes 4 é 16, então, a áre de um quadrado de lado 4 é 16.
+```
+
+### Raiz quadrada
+
+Na raiz quadrada a lógica é inversa, a pergunta é:
+
+Qual é o lado do quadrado que tem 16 de área (ou 16 quadradinho dentro)?
+
+```
+Um quadrado com 16 dentro, tem de lado:
+
+1 quadrado? - 1 vezes 1 é 1.
+Não é 16.
+
+2 quadrados? - 2 vezes 2 é 4.
+Não é 16.
+
+3 quadrados? - 3 vezes 3 é 9.
+Não é 16.
+
+4 quadrados? - 4 vezes 4 é 16.
+É 16! Logo, um quadrado com 16 dentro, tem lado 4.
+```
+
+---
+
+### Conjuntos dos Numéricos Naturais
+
+Números que usamos para fazer contagem.
+
+Números inteiros, positivos.
+
+```
+N = { 0, 1, 2, 3, ..., 320, ..., 2021, ... }
+```
+
+#### Números naturais ao quadrado
+
+```
+0² = 0*0 = 0
+1² = 1*1 = 1
+2² = 2*2 = 4
+3² = 3*3 = 9
+...
+```
+
+#### Raíz quadrada
+
+```
+raiz de 0 = 0
+raiz de 1 = 1
+raiz de 4 = 2
+raiz de 9 = 3
+...
+```
+
+---
+
+### Conjunto dos Números Inteiros
+
+Números positivos e negativos inteiros.
+
+```
+Z = { ..., -4, -3, -2, -1, 0, 1, 2, 3, 4, ... }
+```
+
+#### Números inteiros ao quadrado
+
+```
+-3² = -3 * -3 = 9
+-2² = -2 * -2 = 4
+-1² = -1 * -1 = 1
+0² = 0*0 = 0
+1² = 1*1 = 1
+2² = 2*2 = 4
+3² = 3*3 = 9
+...
+```
+
+Mas pera, tanto 2² quanto -2² dá 4.
+
+Então a raiz de 4 pode ser -2 além de 2?
+
+Sim, mas se fosse assim -2 seria igual a 2, o que é falso.
+
+Por isso, foi feita uma convensão em que se decidiu ter a raiz de um número como sendo positiva.
+
+```
+raiz de 16 = 4
+```
+
+Porém, no caso de uma icógnita como:
+
+```
+x² = 16
+
+4² = 16 é correto
+-4² = 16 também é correto
+
+Logo, x pode ser 4 ou -4
+```
+
+---
+
+### Conjuntos dos Numéricos Racionais
+
+Números que vêm de uma divisão.
+
+```
+Se temos:
+C = A / B
+Sendo A e B inteiros e diferentes de 0.
+Temos que:
+C pertence aos números racionais.
+```
+
+```
+15/5 = 3
+3 é racional
+e inteiro
+
+-3/10 = -0,3
+-0,3 é racional
+e decimal exato
+
+1/3 = 0,333...
+0,333... é racional
+e dízima periódica
+```
+
+---
+
