@@ -71,3 +71,38 @@ x = 2*10^9 * 3*10^4
 x = (2*3) * (10^9 * 10^4)
 x = 6 * 10^13
 ```
+
+---
+
+## Atribuição de atividade
+
+> 09/04/2021
+
+Atividade de relatório e autoavaliação
+
+---
+
+## Mudança de Estado Físico da Matéria
+
+> 13/04/2021
+
+Revisamos mudança de fases:
+
+![Mudança de Fases](./mudancafases.png)
+
+Com exemplos de uma lata de refrigerante, uma janela de carro num tempo frio. Seguindo, nos foi apresentado o ***Diagrama de Fases***, uma representação gráfica com eixo X de Temperatura, e eixo Y de Pressão:
+
+![Diagrama de Fases](./diagramafases.png)
+
+Com suas ***curvas***:
+
+1. Curva de Fusão
+2. Curva de Vaporização
+3. Curva de Sublimação
+
+Que delimitam qual a fase da matéria, por espaço no gráfico.
+
+E o ***ponto tríplice*** onde coexistem os três estados físicos da matéria. Por não ser possível distinguir uma fase específica, diz-se que, por exemplo, na curva de fusão, têm-se ambos os estados sólido e líquido.
+
+---
+
