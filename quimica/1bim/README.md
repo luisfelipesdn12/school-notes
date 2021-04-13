@@ -95,6 +95,67 @@ C = 160 gramas por litro
 
 ## MOL
 
-> 12.04.2021
+> 12/04/2021
 
-Assistimos a um [vídeo do repositório do CMSP](http://acervocmsp.educacao.sp.gov.br/8438/117831.mp4) a então partimos para _fazer um calculo que eu to com sono demais para acompanhar_ 
+Assistimos a um [vídeo do repositório do CMSP](http://acervocmsp.educacao.sp.gov.br/8438/117831.mp4) a então partimos para fazer um calculo.
+
+---
+
+## Exercícios MOL
+
+> 13/04/2021
+
+> [Documento usado em aula](./Tarefa%202%20médio%20-%20Soluções.docx)
+
+Foi revisado conosco o cálculo de MOL e nos passado exercícios para resolvermos.
+
+---
+
+﻿1. (Vunesp-2000) Sabendo-se que a massa molar do lítio é 7,0g/mol, a massa de lítio contida em 250mL de uma solução aquosa de concentração 0,160mol/L de carbonato de lítio é:
+
+```
+Se tem 0,160mol em 1 litro
+Em 250ml tem 0,160mol/4
+Ou seja, 0,04mol em 250ml
+Se cada mol de lítio tem 7,0g
+Temos 0,04*7 como a quantidade de gramas de lítio em 250ml
+Logo: 0,28g de lítio.
+
+0,28g
+```
+
+---
+
+2.  (UCS-RS) Uma pessoa usou 34,2g de sacarose (C12H22O11) para adoçar seu cafezinho. O volume de cafezinho adoçado na xícara foi de 50 mL. A concentração molar da sacarose no cafezinho foi de:                                                                      Dados: 342g/mol
+
+```
+34,2g para 50ml
+342g para 500ml
+Logo, 1 mol seria 500ml
+Como é 50ml, 0,1mol de sacarose.
+
+0,1mol
+```
+
+---
+
+
+3.  (UNEB) O soro caseiro consiste em uma solução aquosa de cloreto de sódio (3,5 g/L) e de sacarose (11 g/L). As massas de cloreto de sódio e de sacarose necessárias para se preparar 500 mL de soro caseiro são, respectivamente:
+
+```
+Sódio em 500ml:
+Se tem 3,5g em 1 litro
+Em 250ml tem 3,5g/2
+Logo, 1,75g de sódio.
+
+Sacarose em 500ml:
+Se tem 11g em 1 litro
+Em 250ml tem 11g/2
+Logo, 5,5g de sacarose.
+
+1,75g e 5,5g
+```
+
+---
+
+> Observação: Essa foi a lógica que eu (Luis Felipe) cheguei, não necessáriamente a correta. O professor disse que vai corrigir na próxima aula, então, na próxima anotação, conterá os resultados corretos.
