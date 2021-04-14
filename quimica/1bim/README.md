@@ -159,3 +159,84 @@ Logo, 5,5g de sacarose.
 ---
 
 > Observação: Essa foi a lógica que eu (Luis Felipe) cheguei, não necessáriamente a correta. O professor disse que vai corrigir na próxima aula, então, na próxima anotação, conterá os resultados corretos.
+
+---
+
+## Correção dos exercícios sobre MOL
+
+> 14/04/2021
+
+1. (Vunesp-2000) Sabendo-se que a massa molar do lítio é 7,0g/mol, a massa de lítio contida em 250mL de uma solução aquosa de concentração 0,160mol/L de carbonato de lítio é:
+
+```
+Massa molar:
+MM = 7g/mol
+
+Volume:
+V = 250ml
+Em litro:
+V = 0,25L
+
+Concentração:
+C = 0,16mol/L
+
+Massa:
+M1 = x --> é a icógnita da questão
+
+C = M1 / MM * V
+0,16 = M1 / 7 * 0,25
+0,16 * 1,75 = M1
+0,28 = M1
+
+0,28g
+```
+
+---
+
+2. (UCS-RS) Uma pessoa usou 34,2g de sacarose (C12H22O11) para adoçar seu cafezinho. O volume de cafezinho adoçado na xícara foi de 50 mL. A concentração molar da sacarose no cafezinho foi de:                                                                      Dados: 342g/mol
+
+```
+Massa:
+M1 = 34,2g
+
+Massa molar:
+MM = 342g/mol
+
+Volume:
+V = 50ml
+Em litro:
+V = 0,05ml
+
+C = M1 / MM * V
+C = 34,2 / 342 * 0,05
+C = 34,2 / 17,1
+C = 2
+
+2mol
+```
+
+---
+
+3. (UNEB) O soro caseiro consiste em uma solução aquosa de cloreto de sódio (3,5 g/L) e de sacarose (11 g/L). As massas de cloreto de sódio e de sacarose necessárias para se preparar 500 mL de soro caseiro são, respectivamente:
+
+```
+Volume:
+V = 500ml
+Em litros:
+V = 0,5L
+
+Sacarose:
+C = g / L
+11 = g / 0,5
+11 * 0,5 = g
+5,5 = g
+
+Sal:
+C = g / L
+3,5 = g /0,5
+3,5 * 0,5 = g
+1,75 = g
+
+1,75g e 5,5g
+```
+
