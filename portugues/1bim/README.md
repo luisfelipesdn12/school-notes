@@ -403,4 +403,16 @@ Fomos alertados à respeito do uso das redes, e então nos foi lida a seguinte d
 
 > 'privacidade': Trata-se de uma palavra inglesa, de emprestimo recente na lingua, sugerindo-se no seu lugar o uso de: [...].
 
-Buscamos incorporar vocábulos de outras línguas, mesmo quando não há necessidade. Se dá como herança da nossa atitude na linguagem oral: como brasileiros, é comum de nossa cultura que recepcionemos estrangeiros com grande primor, como se devido à meramente sua excelência como estrangeiros. 
+Buscamos incorporar vocábulos de outras línguas, mesmo quando não há necessidade. Se dá como herança da nossa atitude na linguagem oral: como brasileiros, é comum de nossa cultura que recepcionemos estrangeiros com grande primor, como se devido à meramente sua excelência como estrangeiros.
+
+---
+
+## Diversidade cultura brasileira
+> 19/04/2021
+
+Vimos três vídeos:
+- [A Cidade (Clipe) - Chico Science & Nação Zumbi](https://youtu.be/UVab41Zn7Yc)
+- [Racismo é Burrice - Gabriel O Pensador (Lyrics)](https://youtu.be/C-78APprtNE)
+- [Chegança - Antônio Nóbrega](https://youtu.be/vIwP2TsKee4)
+
+E discutimos sobre a diversidade cultural do Brasil e a relação entre os textos.
