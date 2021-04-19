@@ -7,7 +7,7 @@
 
 ### Formas geométricas
 
-![](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimage.slidesharecdn.com%2Fquadrilteros-110312121548-phpapp01%2F95%2Fquadrilteros-6-728.jpg%3Fcb%3D1299932500&f=1&nofb=1)
+![](./quadrilateros.jpeg)
 
 | Nome           | Definição                                           |
 | -------------- | --------------------------------------------------- |
@@ -29,7 +29,7 @@
 | Oposto pelo vértice (OPV) | Auto-descritivo, estam opostos entre si pelo vértice |
 | Alternos internos         | localizados na região externa das retas paralelas    |
 
-![Exemplo alterno externo](https://conhecimentocientifico.r7.com/wp-content/uploads/2020/12/angulos-alternos-internos-o-que-sao-definicao-e-principais-caracteristicas-2-960x523.png)
+![Exemplo alterno externo](./alternos.png)
 > Exemplo alterno externo
 
 ---
@@ -42,7 +42,7 @@
 Foram revistos os conceitos de OPV e Alternos internos.
 (Comentamos sobre o Zorro :V)
 
-![Zorro](https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2019/08/03/Pictures/_0664a0ae-b5af-11e9-895a-bbf3eb4ef5e5.png)
+![Zorro](./zorro.webp)
 
 ### Soma dos Ângulos Internos de um Triângulo
 ![Demonstração da soma](./demo_soma_angulos_internos_triangulo.jpg)
@@ -518,3 +518,50 @@ e dízima periódica
 
 ---
 
+## Teorema de Pitágoras
+
+> 19/04/2021
+
+---
+
+### Lados do Triângulo Retângulo
+
+Os lados que formam o ânculo reto, se chamam-se **catetos**.
+
+O terceiro lado, maior, oposto ao ângulo reto, é a **hipotenusa**.
+
+### Teorema de Pitágoras
+
+> "O quadrado da hipotenusa é igual a soma dos quadrados dos catetos"
+
+Para visualizar, vimos o seguinte vídeo: [A demonstração do Teorema de Pitágoras(via experimento) - YouTube](https://youtu.be/bS-D0XeFMPQ)
+
+![GIF do Vídeo acima](./pitagoras_experimento.gif)
+
+![Fórmula do teorema](./the-pythagorean-formula.png)
+
+### Qual é a medida do lado a?
+
+Temos vários triângulo reângulos retos:
+
+![Triângulos retos](./pitagoras_exercicio.jpg)
+
+Na fórmula, `a` e `b` são catetos, `c` é a hipotenusa. Se consideraros o triângulo b:
+
+```
+c² = a² + b²
+c² = 2² + 3²
+c³ = 4 + 9
+c² = 13
+c = raíz de 13
+```
+
+---
+
+### Conjunto dos números Reais
+
+Os números reais englobam todos os outros conjuntos que vimos até agora.
+
+![Conjuntos Numéricos](./conjuntos_numericos.jpeg)
+
+> ℝ é o símbolo dos números racionais.
