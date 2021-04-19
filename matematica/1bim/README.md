@@ -522,6 +522,8 @@ e dízima periódica
 
 > 19/04/2021
 
+> [Documento usado em aula](./Semana%207.1%20-%20Teorema%20de%20Pitágoras.pdf)
+
 ---
 
 ### Lados do Triângulo Retângulo
