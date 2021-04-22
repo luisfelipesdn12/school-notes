@@ -567,3 +567,10 @@ Os números reais englobam todos os outros conjuntos que vimos até agora.
 ![Conjuntos Numéricos](./conjuntos_numericos.jpeg)
 
 > ℝ é o símbolo dos números racionais.
+
+---
+
+## Números Reais
+> 20/04/2021
+
+> [Documento usado em aula](./Semana%207.2%20-%20Números%20Reais.pdf) 
