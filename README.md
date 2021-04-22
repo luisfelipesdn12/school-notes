@@ -45,15 +45,13 @@ Anotações da minha escola — um caderninho :)
 
 #### Aulas pelo CMSP
 
-> De 19/04 a 23/04
+> De 26/04 a 30/04
 
-|   **Horário**   | **Segunda-feira** |  **Terça-feira**  |   **Quarta-feira**    | **Quinta-feira**  | **Sexta-feira** |
-| :-------------: | :---------------: | :---------------: | :-------------------: | :---------------: | :-------------: |
-| **17h00~17h30** |     Biologia      | Língua Portuguesa |    ***História***     | Língua Portuguesa | Educação Física |
-| **17h30~18h00** |    Matemática     |      Física       |   ***Matemática***    |    Sociologia     |    Geografia    |
-| **18h00~18h30** |      Química      |     Eletivas      | ***Projeto de Vida*** |     Filosofia     |  LEM - Inglês   |
-
-> ***Itálico e negrito*** indicam reprises.
+|   **Horário**   | **Segunda-feira** |  **Terça-feira**  | **Quarta-feira** | **Quinta-feira**  | **Sexta-feira** |
+| :-------------: | :---------------: | :---------------: | :--------------: | :---------------: | :-------------: |
+| **17h00~17h30** |     Biologia      | Língua Portuguesa |    Matemática    | Língua Portuguesa |      Arte       |
+| **17h30~18h00** |    Matemática     |      Física       |     História     |    Sociologia     |    Geografia    |
+| **18h00~18h30** |      Química      |    Tecnologia     | Projeto de Vida  |     Filosofia     |  LEM - Inglês   |
 
 ## Organização
 
