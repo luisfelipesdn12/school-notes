@@ -27,6 +27,34 @@ Anotações da minha escola — um caderninho :)
 
 ---
 
+## Recursos úteis
+
+### Horário das aulas
+#### Aulas no Google Meet
+
+> De 19/04 a 23/04
+
+|   **Horário**   | **Segunda-feira** | **Terça-feira** | **Quarta-feira** | **Quinta-feira** | **Sexta-feira** |
+| :-------------: | :---------------: | :-------------: | :--------------: | :--------------: | :-------------: |
+|  **7h30~8h15**  |    Matemática     |     Física      |    Sociologia    |    Ed. Física    |    Geografia    |
+|  **8h15~9h00**  |     Português     |      Artes      |    Sociologia    |      Artes       |    História     |
+| **9h20~10h05**  |      Química      |     Química     |     História     | Projeto de Vida  |    Biologia     |
+| **10h05~10h50** |      Inglês       |   Matemática    |     Química      |    Filosofia     |   Ed. Física    |
+
+---
+
+#### Aulas pelo CMSP
+
+> De 19/04 a 23/04
+
+|   **Horário**   | **Segunda-feira** |  **Terça-feira**  |   **Quarta-feira**    | **Quinta-feira**  | **Sexta-feira** |
+| :-------------: | :---------------: | :---------------: | :-------------------: | :---------------: | :-------------: |
+| **17h00~17h30** |     Biologia      | Língua Portuguesa |    ***História***     | Língua Portuguesa | Educação Física |
+| **17h30~18h00** |    Matemática     |      Física       |   ***Matemática***    |    Sociologia     |    Geografia    |
+| **18h00~18h30** |      Química      |     Eletivas      | ***Projeto de Vida*** |     Filosofia     |  LEM - Inglês   |
+
+> ***Itálico e negrito*** indicam reprises.
+
 ## Organização
 
 ### Diretórios
