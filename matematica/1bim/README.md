@@ -574,3 +574,17 @@ Os números reais englobam todos os outros conjuntos que vimos até agora.
 > 20/04/2021
 
 > [Documento usado em aula](./Semana%207.2%20-%20Números%20Reais.pdf) 
+
+---
+
+## Operações com Números Reais
+> 10/05/2021
+
+> [Documento usado em aula](./Semana%208.1%20-%20Operações%20com%20números%20Reais.pdf)
+
+---
+
+## Razões Trigonométricas
+> 11/05/2021
+
+> [Documento usado em aula](./Semana%208.2%20-%20Razões%20trigonométricas.pdf)
